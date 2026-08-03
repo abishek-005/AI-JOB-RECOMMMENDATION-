@@ -3,6 +3,7 @@
 import React, { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { ArrowRight, HelpCircle } from 'lucide-react';
+import { DotPattern } from '@/components/DotPattern';
 import gsap from 'gsap';
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
 
   useEffect(() => {
     const ctx = gsap.context(() => {
-      // 1. Entrance slide-up animations
+      // 1. Entrance slide-up
       gsap.from('.anim-in', {
         opacity: 0,
         y: 40,
@@ -30,16 +31,16 @@ export default function Home() {
 
         const moveGlow = (e: MouseEvent) => {
           gsap.to(glow, {
-            x: e.clientX - 96,
-            y: e.clientY - 96,
-            duration: 1.0,
+            x: e.clientX - 150,
+            y: e.clientY - 150,
+            duration: 1.2,
             ease: 'power2.out',
           });
         };
         window.addEventListener('mousemove', moveGlow);
       }
 
-      // 3. Magnetic button effect
+      // 3. Magnetic buttons
       const magneticBtns = document.querySelectorAll('.magnetic-btn');
       magneticBtns.forEach((btn) => {
         const onMove = (e: Event) => {
@@ -56,6 +57,17 @@ export default function Home() {
         btn.addEventListener('mouseleave', onLeave);
       });
 
+      // 4. Floating animation for decorative orbs
+      gsap.to('.float-orb-1', {
+        y: -20, duration: 3, repeat: -1, yoyo: true, ease: 'sine.inOut',
+      });
+      gsap.to('.float-orb-2', {
+        y: 15, duration: 4, repeat: -1, yoyo: true, ease: 'sine.inOut', delay: 1,
+      });
+      gsap.to('.float-orb-3', {
+        y: -12, duration: 3.5, repeat: -1, yoyo: true, ease: 'sine.inOut', delay: 0.5,
+      });
+
     }, containerRef);
 
     return () => ctx.revert();
@@ -64,15 +76,30 @@ export default function Home() {
   return (
     <main ref={containerRef} className="min-h-screen bg-[#fbfbfd] flex flex-col items-center justify-between font-[family-name:var(--font-geist-sans)] overflow-hidden relative">
       
+      {/* Clearly Visible Dot Pattern Background */}
+      <DotPattern
+        width={24}
+        height={24}
+        cx={2}
+        cy={2}
+        cr={1.5}
+        className="fill-slate-400/50 [mask-image:radial-gradient(900px_circle_at_center,white,transparent)]"
+      />
+
       {/* Mouse-following glow */}
       <div 
         id="mouse-glow" 
-        className="pointer-events-none fixed top-0 left-0 w-48 h-48 rounded-full blur-[80px] opacity-0"
-        style={{ background: 'rgba(99, 102, 241, 0.08)' }}
+        className="pointer-events-none fixed top-0 left-0 w-72 h-72 rounded-full opacity-0"
+        style={{ background: 'radial-gradient(circle, rgba(99,102,241,0.14) 0%, transparent 70%)', filter: 'blur(30px)' }}
       />
 
+      {/* Floating decorative orbs */}
+      <div className="float-orb-1 absolute top-20 right-20 w-32 h-32 rounded-full opacity-30" style={{ background: 'radial-gradient(circle, #93c5fd, transparent)' }} />
+      <div className="float-orb-2 absolute bottom-32 left-16 w-24 h-24 rounded-full opacity-20" style={{ background: 'radial-gradient(circle, #c4b5fd, transparent)' }} />
+      <div className="float-orb-3 absolute top-40 left-32 w-16 h-16 rounded-full opacity-25" style={{ background: 'radial-gradient(circle, #6ee7b7, transparent)' }} />
+
       {/* Apple-style frosted glass navbar */}
-      <header className="w-full sticky top-0 z-50 anim-in" style={{ background: 'rgba(245, 245, 247, 0.72)', backdropFilter: 'saturate(180%) blur(20px)', borderBottom: '1px solid rgba(0,0,0,0.06)' }}>
+      <header className="w-full sticky top-0 z-50 anim-in" style={{ background: 'rgba(255,255,255,0.75)', backdropFilter: 'saturate(180%) blur(20px)', borderBottom: '1px solid rgba(0,0,0,0.06)' }}>
         <div className="max-w-5xl mx-auto px-6 h-11 flex items-center justify-between">
           <div className="flex items-center space-x-1.5">
             <div className="w-5 h-5 rounded flex items-center justify-center font-bold text-white text-[9px]" style={{ background: 'linear-gradient(135deg, #3b82f6, #6366f1)' }}>
@@ -95,7 +122,7 @@ export default function Home() {
       </header>
 
       {/* Hero */}
-      <div className="max-w-3xl text-center my-auto flex flex-col items-center justify-center px-6 py-20">
+      <div className="max-w-3xl text-center my-auto flex flex-col items-center justify-center px-6 py-20 relative z-10">
         <h1 className="anim-in text-4xl sm:text-6xl font-semibold text-slate-900 tracking-tight mb-4 leading-tight">
           Discover Your Ideal<br/>
           <span className="animate-chameleon bg-clip-text text-transparent font-bold">
@@ -126,7 +153,7 @@ export default function Home() {
       </div>
 
       {/* Footer */}
-      <footer className="w-full text-center text-[10px] text-slate-400 py-6 anim-in" style={{ borderTop: '1px solid rgba(0,0,0,0.04)' }}>
+      <footer className="w-full text-center text-[10px] text-slate-400 py-6 anim-in relative z-10" style={{ borderTop: '1px solid rgba(0,0,0,0.04)' }}>
         Candidate-Centric AI Job Recommendation & Upskilling Platform
       </footer>
     </main>

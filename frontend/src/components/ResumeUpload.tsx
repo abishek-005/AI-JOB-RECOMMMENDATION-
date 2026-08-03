@@ -13,52 +13,52 @@ export default function ResumeUpload() {
   const cardRef = useRef<HTMLDivElement>(null);
   const uploadZoneRef = useRef<HTMLDivElement>(null);
 
-  // GSAP 3D tilt on mouse move
+  // GSAP Smooth Floating Card Hover Animation (replacing 3D tilt)
   useEffect(() => {
     const card = cardRef.current;
     if (!card) return;
 
-    const handleMouseMove = (e: MouseEvent) => {
-      const rect = card.getBoundingClientRect();
-      const x = e.clientX - rect.left - rect.width / 2;
-      const y = e.clientY - rect.top - rect.height / 2;
-
+    const handleMouseEnter = () => {
       gsap.to(card, {
-        rotateX: -y / 20,
-        rotateY: x / 20,
-        transformPerspective: 800,
+        y: -6,
+        scale: 1.01,
+        boxShadow: '0 20px 35px -10px rgba(59, 130, 246, 0.15), 0 10px 15px -5px rgba(0, 0, 0, 0.04)',
+        borderColor: 'rgba(147, 197, 253, 0.8)',
+        duration: 0.35,
         ease: 'power2.out',
-        duration: 0.4,
       });
     };
 
     const handleMouseLeave = () => {
       gsap.to(card, {
-        rotateX: 0,
-        rotateY: 0,
-        ease: 'elastic.out(1, 0.5)',
-        duration: 0.6,
+        y: 0,
+        scale: 1,
+        boxShadow: '0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01)',
+        borderColor: 'rgba(226, 232, 240, 1)',
+        duration: 0.4,
+        ease: 'power2.out',
       });
     };
 
-    card.addEventListener('mousemove', handleMouseMove);
+    card.addEventListener('mouseenter', handleMouseEnter);
     card.addEventListener('mouseleave', handleMouseLeave);
 
     return () => {
-      card.removeEventListener('mousemove', handleMouseMove);
+      card.removeEventListener('mouseenter', handleMouseEnter);
       card.removeEventListener('mouseleave', handleMouseLeave);
     };
   }, []);
 
-  // GSAP hover glow on upload zone
+  // GSAP hover glow on inner upload zone
   useEffect(() => {
     const zone = uploadZoneRef.current;
     if (!zone) return;
 
     const handleEnter = () => {
       gsap.to(zone, {
-        boxShadow: '0 0 30px rgba(59, 130, 246, 0.15)',
-        borderColor: 'rgba(59, 130, 246, 0.5)',
+        boxShadow: '0 0 25px rgba(59, 130, 246, 0.2)',
+        borderColor: 'rgba(59, 130, 246, 0.6)',
+        backgroundColor: 'rgba(240, 246, 255, 0.9)',
         duration: 0.3,
         ease: 'power2.out',
       });
@@ -68,6 +68,7 @@ export default function ResumeUpload() {
       gsap.to(zone, {
         boxShadow: '0 0 0px rgba(59, 130, 246, 0)',
         borderColor: 'rgba(203, 213, 225, 1)',
+        backgroundColor: 'rgba(248, 250, 252, 0.8)',
         duration: 0.3,
         ease: 'power2.out',
       });
@@ -122,10 +123,9 @@ export default function ResumeUpload() {
   return (
     <div 
       ref={cardRef} 
-      className="w-full max-w-2xl mx-auto p-6 sm:p-8 bg-white rounded-2xl shadow-lg border border-slate-200 transform-gpu"
-      style={{ transformStyle: 'preserve-3d' }}
+      className="w-full max-w-2xl mx-auto p-6 sm:p-8 bg-white rounded-2xl shadow-lg border border-slate-200 transition-colors"
     >
-      <div className="text-center mb-6" style={{ transform: 'translateZ(20px)' }}>
+      <div className="text-center mb-6">
         <h2 className="text-xl font-bold text-slate-800">Upload Your Resume</h2>
         <p className="text-slate-500 mt-1.5 text-xs font-medium">We&apos;ll parse and structure your details, extracting core skills.</p>
       </div>
@@ -134,13 +134,12 @@ export default function ResumeUpload() {
       <div 
         ref={uploadZoneRef}
         className="relative border-2 border-dashed border-slate-300 rounded-xl p-8 flex flex-col items-center justify-center bg-slate-50 transition-all duration-300 overflow-hidden min-h-[200px]"
-        style={{ transform: 'translateZ(10px)' }}
       >
         {/* Loading Scanner Animation */}
         {isUploading && (
           <>
             <div className="absolute inset-x-0 h-1 bg-gradient-to-r from-transparent via-blue-500 to-transparent animate-scan z-10" />
-            <div className="absolute inset-0 bg-white/60 backdrop-blur-sm flex flex-col items-center justify-center z-20">
+            <div className="absolute inset-0 bg-white/70 backdrop-blur-sm flex flex-col items-center justify-center z-20">
               <RefreshCw className="w-10 h-10 text-blue-600 animate-spin mb-3" />
               <span className="text-xs font-bold text-blue-700 tracking-wider animate-pulse">Scanning Profile...</span>
             </div>
@@ -165,7 +164,7 @@ export default function ResumeUpload() {
         )}
       </div>
 
-      <div className="mt-6 flex justify-center" style={{ transform: 'translateZ(15px)' }}>
+      <div className="mt-6 flex justify-center">
         <button
           onClick={handleUpload}
           disabled={!file || isUploading}
@@ -180,14 +179,14 @@ export default function ResumeUpload() {
       </div>
 
       {error && (
-        <div className="mt-6 p-4 bg-red-50 border border-red-200 rounded-xl flex items-start space-x-3 text-red-700" style={{ transform: 'translateZ(10px)' }}>
+        <div className="mt-6 p-4 bg-red-50 border border-red-200 rounded-xl flex items-start space-x-3 text-red-700">
           <AlertCircle className="w-5 h-5 flex-shrink-0 mt-0.5" />
           <p className="text-xs font-semibold">{error}</p>
         </div>
       )}
 
       {result && (
-        <div className="mt-8" style={{ transform: 'translateZ(20px)' }}>
+        <div className="mt-8">
           <div className="flex items-center space-x-2 text-emerald-600 mb-3">
             <CheckCircle className="w-5 h-5" />
             <h3 className="font-bold text-sm">Analysis Complete</h3>
