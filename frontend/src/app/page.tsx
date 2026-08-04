@@ -4,6 +4,7 @@ import React, { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { ArrowRight, HelpCircle } from 'lucide-react';
 import { DotPattern } from '@/components/DotPattern';
+import ThemeToggle from '@/components/ThemeToggle';
 import gsap from 'gsap';
 
 export default function Home() {
@@ -57,16 +58,10 @@ export default function Home() {
         btn.addEventListener('mouseleave', onLeave);
       });
 
-      // 4. Floating animation for decorative orbs
-      gsap.to('.float-orb-1', {
-        y: -20, duration: 3, repeat: -1, yoyo: true, ease: 'sine.inOut',
-      });
-      gsap.to('.float-orb-2', {
-        y: 15, duration: 4, repeat: -1, yoyo: true, ease: 'sine.inOut', delay: 1,
-      });
-      gsap.to('.float-orb-3', {
-        y: -12, duration: 3.5, repeat: -1, yoyo: true, ease: 'sine.inOut', delay: 0.5,
-      });
+      // 4. Floating orbs
+      gsap.to('.float-orb-1', { y: -20, duration: 3, repeat: -1, yoyo: true, ease: 'sine.inOut' });
+      gsap.to('.float-orb-2', { y: 15, duration: 4, repeat: -1, yoyo: true, ease: 'sine.inOut', delay: 1 });
+      gsap.to('.float-orb-3', { y: -12, duration: 3.5, repeat: -1, yoyo: true, ease: 'sine.inOut', delay: 0.5 });
 
     }, containerRef);
 
@@ -74,66 +69,67 @@ export default function Home() {
   }, []);
 
   return (
-    <main ref={containerRef} className="min-h-screen bg-[#fbfbfd] flex flex-col items-center justify-between font-[family-name:var(--font-geist-sans)] overflow-hidden relative">
+    <main ref={containerRef} className="min-h-screen flex flex-col items-center justify-between font-[family-name:var(--font-geist-sans)] overflow-hidden relative" style={{ background: 'var(--bg-page)', transition: 'background 0.4s ease' }}>
       
-      {/* Clearly Visible Dot Pattern Background */}
+      {/* Dot Pattern Background — slightly bigger dots */}
       <DotPattern
-        width={24}
-        height={24}
+        width={28}
+        height={28}
         cx={2}
         cy={2}
-        cr={1.5}
-        className="fill-slate-400/50 [mask-image:radial-gradient(900px_circle_at_center,white,transparent)]"
+        cr={1.8}
+        className="[mask-image:radial-gradient(900px_circle_at_center,white,transparent)]"
+        style={{ fill: 'var(--dot-fill)' }}
       />
 
       {/* Mouse-following glow */}
       <div 
         id="mouse-glow" 
         className="pointer-events-none fixed top-0 left-0 w-72 h-72 rounded-full opacity-0"
-        style={{ background: 'radial-gradient(circle, rgba(99,102,241,0.14) 0%, transparent 70%)', filter: 'blur(30px)' }}
+        style={{ background: `radial-gradient(circle, var(--glow-color) 0%, transparent 70%)`, filter: 'blur(30px)' }}
       />
 
-      {/* Floating decorative orbs */}
+      {/* Floating orbs */}
       <div className="float-orb-1 absolute top-20 right-20 w-32 h-32 rounded-full opacity-30" style={{ background: 'radial-gradient(circle, #93c5fd, transparent)' }} />
       <div className="float-orb-2 absolute bottom-32 left-16 w-24 h-24 rounded-full opacity-20" style={{ background: 'radial-gradient(circle, #c4b5fd, transparent)' }} />
       <div className="float-orb-3 absolute top-40 left-32 w-16 h-16 rounded-full opacity-25" style={{ background: 'radial-gradient(circle, #6ee7b7, transparent)' }} />
 
-      {/* Apple-style frosted glass navbar */}
-      <header className="w-full sticky top-0 z-50 anim-in" style={{ background: 'rgba(255,255,255,0.75)', backdropFilter: 'saturate(180%) blur(20px)', borderBottom: '1px solid rgba(0,0,0,0.06)' }}>
+      {/* ── Frosted Glass Navbar ── */}
+      <header className="w-full sticky top-0 z-50 anim-in" style={{ background: 'var(--bg-nav)', backdropFilter: 'saturate(180%) blur(20px)', borderBottom: `1px solid var(--border-nav)`, transition: 'background 0.4s ease' }}>
         <div className="max-w-5xl mx-auto px-6 h-11 flex items-center justify-between">
-          <div className="flex items-center space-x-1.5">
-            <div className="w-5 h-5 rounded flex items-center justify-center font-bold text-white text-[9px]" style={{ background: 'linear-gradient(135deg, #3b82f6, #6366f1)' }}>
-              C
-            </div>
-            <span className="font-semibold text-xs text-slate-800 tracking-tight">CareerAI</span>
-          </div>
-          <nav className="hidden sm:flex items-center space-x-6 text-[11px] font-normal text-slate-500">
-            <Link href="/about" className="hover:text-slate-900 transition-colors">Why CareerAI</Link>
-            <Link href="/about" className="hover:text-slate-900 transition-colors">Novelty</Link>
-            <Link href="/analyzer" className="hover:text-slate-900 transition-colors">Analyzer</Link>
+          {/* Text-only brand — no SVG "C" icon */}
+          <span className="font-semibold text-sm tracking-tight" style={{ color: 'var(--text-primary)' }}>CareerAI</span>
+          
+          <nav className="hidden sm:flex items-center space-x-6 text-[11px] font-normal" style={{ color: 'var(--text-secondary)' }}>
+            <Link href="/about" className="hover:opacity-80 transition-opacity">Why CareerAI</Link>
+            <Link href="/about" className="hover:opacity-80 transition-opacity">Novelty</Link>
+            <Link href="/analyzer" className="hover:opacity-80 transition-opacity">Analyzer</Link>
           </nav>
-          <Link
-            href="/analyzer"
-            className="text-[10px] px-2.5 py-1 rounded-full bg-blue-600 hover:bg-blue-700 text-white font-medium transition-all"
-          >
-            Get Started
-          </Link>
+
+          <div className="flex items-center gap-3">
+            <ThemeToggle />
+            <Link
+              href="/analyzer"
+              className="text-[10px] px-2.5 py-1 rounded-full bg-blue-600 hover:bg-blue-700 text-white font-medium transition-all"
+            >
+              Get Started
+            </Link>
+          </div>
         </div>
       </header>
 
-      {/* Hero */}
+      {/* ── Hero Section ── */}
       <div className="max-w-3xl text-center my-auto flex flex-col items-center justify-center px-6 py-20 relative z-10">
-        <h1 className="anim-in text-4xl sm:text-6xl font-semibold text-slate-900 tracking-tight mb-4 leading-tight">
+        <h1 className="anim-in text-4xl sm:text-6xl font-semibold tracking-tight mb-4 leading-tight" style={{ color: 'var(--text-primary)' }}>
           Discover Your Ideal<br/>
           <span className="animate-chameleon bg-clip-text text-transparent font-bold">
             Career Path
           </span>
         </h1>
-        <p className="anim-in text-base sm:text-lg text-slate-500 max-w-xl mx-auto leading-relaxed mb-8">
+        <p className="anim-in text-base sm:text-lg max-w-xl mx-auto leading-relaxed mb-8" style={{ color: 'var(--text-secondary)' }}>
           Upload your resume to extract skills, predict job roles using deep learning, and receive a resource-rich upskilling roadmap.
         </p>
 
-        {/* Compact Apple-style buttons */}
         <div className="anim-in flex flex-row items-center justify-center gap-3">
           <Link
             href="/analyzer"
@@ -153,7 +149,7 @@ export default function Home() {
       </div>
 
       {/* Footer */}
-      <footer className="w-full text-center text-[10px] text-slate-400 py-6 anim-in relative z-10" style={{ borderTop: '1px solid rgba(0,0,0,0.04)' }}>
+      <footer className="w-full text-center text-[10px] py-6 anim-in relative z-10" style={{ color: 'var(--text-muted)', borderTop: `1px solid var(--footer-border)` }}>
         Candidate-Centric AI Job Recommendation & Upskilling Platform
       </footer>
     </main>

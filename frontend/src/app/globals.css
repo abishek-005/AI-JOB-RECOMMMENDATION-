@@ -1,21 +1,57 @@
 @import "tailwindcss";
 
+/* ── Light Theme (default) ── */
 :root {
-  --background: #f8fafc; /* slate-50 */
-  --foreground: #0f172a; /* slate-900 */
+  --bg-page: #fbfbfd;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f8fafc;
+  --bg-input: #f8fafc;
+  --bg-nav: rgba(255, 255, 255, 0.75);
+  --border-nav: rgba(0, 0, 0, 0.06);
+  --border-card: #e2e8f0;
+  --border-dashed: #cbd5e1;
+  --text-primary: #0f172a;
+  --text-secondary: #64748b;
+  --text-muted: #94a3b8;
+  --dot-fill: rgba(100, 116, 139, 0.35);
+  --glow-color: rgba(99, 102, 241, 0.12);
+  --footer-border: rgba(0, 0, 0, 0.04);
+  --shadow-card: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
+  --shadow-card-hover: 0 20px 35px -10px rgba(59, 130, 246, 0.15), 0 10px 15px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* ── Dark Theme ── */
+[data-theme="dark"] {
+  --bg-page: #0b0f1a;
+  --bg-card: #111827;
+  --bg-card-hover: #1e293b;
+  --bg-input: #1e293b;
+  --bg-nav: rgba(11, 15, 26, 0.85);
+  --border-nav: rgba(255, 255, 255, 0.06);
+  --border-card: #1e293b;
+  --border-dashed: #334155;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --dot-fill: rgba(148, 163, 184, 0.15);
+  --glow-color: rgba(99, 102, 241, 0.2);
+  --footer-border: rgba(255, 255, 255, 0.04);
+  --shadow-card: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.2);
+  --shadow-card-hover: 0 20px 35px -10px rgba(99, 102, 241, 0.2), 0 10px 15px -5px rgba(0, 0, 0, 0.3);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-background: var(--bg-page);
+  --color-foreground: var(--text-primary);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: var(--bg-page);
+  color: var(--text-primary);
   font-family: Arial, Helvetica, sans-serif;
+  transition: background 0.4s ease, color 0.4s ease;
 }
 
 @keyframes scan {
@@ -44,5 +80,3 @@ body {
   background-size: 300% 100%;
   animation: chameleon 12s linear infinite, move-gradient 8s ease infinite;
 }
-
-
