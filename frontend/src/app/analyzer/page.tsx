@@ -4,7 +4,6 @@ import React, { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import ResumeUpload from '@/components/ResumeUpload';
-import ThemeToggle from '@/components/ThemeToggle';
 import gsap from 'gsap';
 
 export default function AnalyzerPage() {
@@ -29,7 +28,7 @@ export default function AnalyzerPage() {
       <div className="max-w-4xl mx-auto">
         
         {/* Navigation */}
-        <div className="mb-8 anim-in flex items-center justify-between">
+        <div className="mb-8 anim-in">
           <Link
             href="/"
             className="inline-flex items-center space-x-2 text-sm font-medium transition-colors px-4 py-2 rounded-xl shadow-sm"
@@ -38,7 +37,6 @@ export default function AnalyzerPage() {
             <ArrowLeft className="w-4 h-4" />
             <span>Back to Home</span>
           </Link>
-          <ThemeToggle />
         </div>
 
         {/* Header */}

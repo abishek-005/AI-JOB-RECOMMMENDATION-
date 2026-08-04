@@ -78,7 +78,6 @@ export default function Home() {
         cx={2}
         cy={2}
         cr={1.8}
-        className="[mask-image:radial-gradient(900px_circle_at_center,white,transparent)]"
         style={{ fill: 'var(--dot-fill)' }}
       />
 
