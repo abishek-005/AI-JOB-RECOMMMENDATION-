@@ -124,7 +124,7 @@ function DotPattern({
       ref={svgRef}
       aria-hidden="true"
       className={cn(
-        "pointer-events-none absolute inset-0 h-full w-full",
+        "pointer-events-none absolute inset-0 h-full w-full animate-dot-color",
         className,
       )}
       style={{

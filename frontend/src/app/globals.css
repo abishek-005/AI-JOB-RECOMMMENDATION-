@@ -6,14 +6,14 @@
   --bg-card: #ffffff;
   --bg-card-hover: #f8fafc;
   --bg-input: #f8fafc;
-  --bg-nav: rgba(255, 255, 255, 0.75);
-  --border-nav: rgba(0, 0, 0, 0.06);
+  --bg-nav: rgba(255, 255, 255, 0.3);
+  --border-nav: rgba(255, 255, 255, 0.4);
   --border-card: #e2e8f0;
   --border-dashed: #cbd5e1;
   --text-primary: #0f172a;
   --text-secondary: #64748b;
   --text-muted: #94a3b8;
-  --dot-fill: rgba(100, 116, 139, 0.35);
+  --dot-fill: rgba(100, 116, 139, 0.2);
   --glow-color: rgba(99, 102, 241, 0.12);
   --footer-border: rgba(0, 0, 0, 0.04);
   --shadow-card: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
@@ -26,14 +26,15 @@
   --bg-card: #111827;
   --bg-card-hover: #1e293b;
   --bg-input: #1e293b;
-  --bg-nav: rgba(11, 15, 26, 0.85);
-  --border-nav: rgba(255, 255, 255, 0.06);
+  --bg-nav: rgba(11, 15, 26, 0.3);
+  --border-nav: rgba(255, 255, 255, 0.1);
   --border-card: #1e293b;
   --border-dashed: #334155;
   --text-primary: #f1f5f9;
   --text-secondary: #94a3b8;
   --text-muted: #64748b;
-  --dot-fill: rgba(148, 163, 184, 0.15);
+  /* Make dark mode dots a vibrant blue base so hue-rotate creates a rainbow */
+  --dot-fill: rgba(59, 130, 246, 0.35); 
   --glow-color: rgba(99, 102, 241, 0.2);
   --footer-border: rgba(255, 255, 255, 0.04);
   --shadow-card: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.2);
@@ -79,4 +80,34 @@ body {
   background-image: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899, #10b981, #3b82f6);
   background-size: 300% 100%;
   animation: chameleon 12s linear infinite, move-gradient 8s ease infinite;
+}
+
+/* New subtle color cycling for the background dots */
+@keyframes slow-hue {
+  0% { filter: hue-rotate(0deg); }
+  100% { filter: hue-rotate(360deg); }
+}
+
+[data-theme="dark"] .animate-dot-color {
+  animation: slow-hue 15s linear infinite;
+}
+
+/* Clean, elegant card lift & glow hover effects */
+.card-lift-glow {
+  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease, border-color 0.4s ease;
+}
+.card-lift-glow:hover {
+  transform: translateY(-8px) scale(1.02);
+}
+.hover-glow-blue:hover {
+  box-shadow: 0 20px 40px -10px rgba(59, 130, 246, 0.25);
+  border-color: rgba(59, 130, 246, 0.5);
+}
+.hover-glow-indigo:hover {
+  box-shadow: 0 20px 40px -10px rgba(99, 102, 241, 0.25);
+  border-color: rgba(99, 102, 241, 0.5);
+}
+.hover-glow-purple:hover {
+  box-shadow: 0 20px 40px -10px rgba(168, 85, 247, 0.25);
+  border-color: rgba(168, 85, 247, 0.5);
 }

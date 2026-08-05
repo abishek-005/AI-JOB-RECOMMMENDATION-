@@ -93,22 +93,30 @@ export default function Home() {
       <div className="float-orb-2 absolute bottom-32 left-16 w-24 h-24 rounded-full opacity-20" style={{ background: 'radial-gradient(circle, #c4b5fd, transparent)' }} />
       <div className="float-orb-3 absolute top-40 left-32 w-16 h-16 rounded-full opacity-25" style={{ background: 'radial-gradient(circle, #6ee7b7, transparent)' }} />
 
-      {/* ── Frosted Glass Navbar ── */}
-      <header className="w-full sticky top-0 z-50 anim-in" style={{ background: 'var(--bg-nav)', backdropFilter: 'saturate(180%) blur(20px)', borderBottom: `1px solid var(--border-nav)`, transition: 'background 0.4s ease' }}>
-        <div className="max-w-5xl mx-auto px-6 h-11 flex items-center justify-between">
+      {/* ── Navbar ── */}
+      <header 
+        className="anim-in fixed top-4 left-0 right-0 mx-auto w-[95%] max-w-4xl z-50 border rounded-full shadow-[0_8px_32px_0_rgba(0,0,0,0.1)]"
+        style={{ 
+          background: 'var(--bg-nav)',
+          backdropFilter: 'blur(24px) saturate(180%)',
+          WebkitBackdropFilter: 'blur(24px) saturate(180%)',
+          borderColor: 'var(--border-nav)'
+        }}
+      >
+        <div className="px-6 h-14 flex items-center justify-between">
           {/* Text-only brand — no SVG "C" icon */}
           <span className="font-semibold text-sm tracking-tight" style={{ color: 'var(--text-primary)' }}>CareerAI</span>
           
           <nav className="hidden sm:flex items-center space-x-6 text-[11px] font-normal" style={{ color: 'var(--text-secondary)' }}>
-            <Link href="/about" className="hover:opacity-80 transition-opacity">Why CareerAI</Link>
-            <Link href="/about" className="hover:opacity-80 transition-opacity">Novelty</Link>
-            <Link href="/analyzer" className="hover:opacity-80 transition-opacity">Analyzer</Link>
+            <Link href="/why" className="hover:text-[var(--text-primary)] transition-colors">Why CareerAI</Link>
+            <Link href="/novelty" className="hover:text-[var(--text-primary)] transition-colors">Novelty</Link>
+            <Link href="/analyzer" className="hover:text-[var(--text-primary)] transition-colors">Analyzer</Link>
           </nav>
 
           <div className="flex items-center gap-3">
             <ThemeToggle />
             <Link
-              href="/analyzer"
+              href="/guide"
               className="text-[10px] px-2.5 py-1 rounded-full bg-blue-600 hover:bg-blue-700 text-white font-medium transition-all"
             >
               Get Started
@@ -138,7 +146,7 @@ export default function Home() {
             <ArrowRight className="w-3 h-3 group-hover:translate-x-0.5 transition-transform" />
           </Link>
           <Link
-            href="/about"
+            href="/why"
             className="magnetic-btn px-5 py-2 rounded-full border border-blue-600 text-blue-600 hover:bg-blue-50 text-xs font-medium transition-all flex items-center gap-1.5 active:scale-95"
           >
             <span>Learn more</span>
