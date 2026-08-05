@@ -145,13 +145,6 @@ export default function Home() {
             <span>Analyze Resume</span>
             <ArrowRight className="w-3 h-3 group-hover:translate-x-0.5 transition-transform" />
           </Link>
-          <Link
-            href="/why"
-            className="magnetic-btn px-5 py-2 rounded-full border border-blue-600 text-blue-600 hover:bg-blue-50 text-xs font-medium transition-all flex items-center gap-1.5 active:scale-95"
-          >
-            <span>Learn more</span>
-            <HelpCircle className="w-3 h-3" />
-          </Link>
         </div>
       </div>
 
