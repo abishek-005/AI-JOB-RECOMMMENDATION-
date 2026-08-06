@@ -49,6 +49,13 @@ async def upload_resume(file: UploadFile = File(...)):
         extracted_text = ""
         
         with pdfplumber.open(io.BytesIO(content)) as pdf:
+            num_pages = len(pdf.pages)
+            if num_pages > 2:
+                raise HTTPException(
+                    status_code=400, 
+                    detail=f"Warning: Your resume is {num_pages} pages long. Recruiters and ATS systems strongly prefer 1-2 page resumes. A long resume negatively impacts your placement chances. Please condense it and try again."
+                )
+
             for page in pdf.pages:
                 text = page.extract_text()
                 if text:
@@ -56,8 +63,14 @@ async def upload_resume(file: UploadFile = File(...)):
         
         cleaned_text = clean_text(extracted_text)
         
+        # 3. Call the SBERT ML Engine to predict roles
+        from ml_engine import predict_roles
+        predicted_roles = predict_roles(cleaned_text)
+        
         return {
             "filename": file.filename,
+            "page_count": num_pages,
+            "predicted_roles": predicted_roles,
             "extracted_text": cleaned_text
         }
     except Exception as e:
