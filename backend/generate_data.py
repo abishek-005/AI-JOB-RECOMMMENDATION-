@@ -8,7 +8,12 @@ ROLES = [
     "Data Scientist",
     "UI/UX Designer",
     "DevOps Engineer",
-    "Product Manager"
+    "Product Manager",
+    "AI/ML Engineer",
+    "Core Python Developer",
+    "Java Developer",
+    "System Designer",
+    "Non-Tech / Other"
 ]
 
 # Vocabulary pools for synthetic generation
@@ -42,6 +47,31 @@ VOCABULARY = {
         "skills": ["Agile", "Scrum", "Jira", "Confluence", "Roadmapping", "A/B Testing", "Go-to-market Strategy", "Data Analysis", "User Interviews", "Stakeholder Management"],
         "verbs": ["Led", "Managed", "Prioritized", "Launched", "Analyzed", "Coordinated", "Strategized"],
         "nouns": ["product roadmaps", "sprint cycles", "cross-functional teams", "feature launches", "user requirements", "market research"]
+    },
+    "AI/ML Engineer": {
+        "skills": ["Deep Learning", "PyTorch", "TensorFlow", "Transformers", "LLMs", "NLP", "Computer Vision", "Keras", "HuggingFace", "Model Optimization"],
+        "verbs": ["Engineered", "Trained", "Fine-tuned", "Deployed", "Architected", "Optimized", "Researched"],
+        "nouns": ["large language models", "neural architectures", "transformer models", "inference pipelines", "generative AI systems"]
+    },
+    "Core Python Developer": {
+        "skills": ["Python", "Asyncio", "Multithreading", "Flask", "Pytest", "FastAPI", "Celery", "SQLAlchemy", "REST APIs", "Data Structures"],
+        "verbs": ["Developed", "Optimized", "Refactored", "Maintained", "Automated", "Scripted", "Engineered"],
+        "nouns": ["backend services", "concurrent systems", "API endpoints", "automation scripts", "data processing pipelines"]
+    },
+    "Java Developer": {
+        "skills": ["Java", "Spring Boot", "Hibernate", "JVM", "Microservices", "Kafka", "Maven", "Gradle", "JUnit", "Tomcat"],
+        "verbs": ["Built", "Engineered", "Deployed", "Scaled", "Maintained", "Architected", "Integrated"],
+        "nouns": ["enterprise applications", "microservices architectures", "J2EE platforms", "message queues", "backend logic"]
+    },
+    "System Designer": {
+        "skills": ["System Architecture", "Scalability", "Distributed Systems", "Cloud Architecture", "System Design", "Microservices", "Load Balancing", "Caching"],
+        "verbs": ["Designed", "Architected", "Scaled", "Evaluated", "Modeled", "Planned", "Structured"],
+        "nouns": ["distributed architectures", "high-availability systems", "system topologies", "scalability strategies", "infrastructure designs"]
+    },
+    "Non-Tech / Other": {
+        "skills": ["Patient Care", "Surgery", "Culinary Arts", "Litigation", "Lesson Planning", "Customer Service", "Accounting", "Public Speaking", "Event Planning", "Sales", "Nursing", "Legal Research", "Food Preparation"],
+        "verbs": ["Diagnosed", "Cooked", "Represented", "Taught", "Assisted", "Managed", "Organized", "Treated", "Advised", "Prepared"],
+        "nouns": ["patients", "menus", "clients", "students", "financial records", "events", "sales targets", "legal documents", "medical records", "customer inquiries"]
     }
 }
 

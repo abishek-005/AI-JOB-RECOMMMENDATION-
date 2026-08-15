@@ -1,8 +1,13 @@
 {
-    "0": "Backend Developer",
-    "1": "Data Scientist",
-    "2": "DevOps Engineer",
-    "3": "Frontend Developer",
-    "4": "Product Manager",
-    "5": "UI/UX Designer"
+    "0": "AI/ML Engineer",
+    "1": "Backend Developer",
+    "2": "Core Python Developer",
+    "3": "Data Scientist",
+    "4": "DevOps Engineer",
+    "5": "Frontend Developer",
+    "6": "Java Developer",
+    "7": "Non-Tech / Other",
+    "8": "Product Manager",
+    "9": "System Designer",
+    "10": "UI/UX Designer"
 }

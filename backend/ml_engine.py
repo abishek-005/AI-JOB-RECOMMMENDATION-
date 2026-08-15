@@ -97,5 +97,15 @@ def predict_roles(resume_text: str):
     # Sort by highest score first
     results.sort(key=lambda x: x['match_score'], reverse=True)
     
-    # Return the top 3 roles
-    return results[:3]
+    # Check if the top result is "Non-Tech / Other"
+    is_eligible = True
+    if results and results[0]['role'] == "Non-Tech / Other":
+        is_eligible = False
+        
+    # Filter out the 'Non-Tech' role so it doesn't show up in the tech dropdown
+    filtered_results = [r for r in results if r['role'] != "Non-Tech / Other"]
+    
+    return {
+        "is_eligible": is_eligible,
+        "predicted_roles": filtered_results
+    }

@@ -65,12 +65,13 @@ async def upload_resume(file: UploadFile = File(...)):
         
         # 3. Call the SBERT ML Engine to predict roles
         from ml_engine import predict_roles
-        predicted_roles = predict_roles(cleaned_text)
+        prediction_output = predict_roles(cleaned_text)
         
         return {
             "filename": file.filename,
             "page_count": num_pages,
-            "predicted_roles": predicted_roles,
+            "is_eligible": prediction_output["is_eligible"],
+            "predicted_roles": prediction_output["predicted_roles"],
             "extracted_text": cleaned_text
         }
     except Exception as e:
