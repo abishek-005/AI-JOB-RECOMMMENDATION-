@@ -1,0 +1,1202 @@
+[
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Kubernetes, Prometheus, Docker, GitHub Actions, Terraform, GCP, Grafana, Jenkins.\nKey Achievements:\n- Orchestrated containerized applications utilizing Terraform.\n- Secured kubernetes clusters utilizing Kubernetes.\n- Secured infrastructure as code utilizing Prometheus.\n- Orchestrated deployment pipelines utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GCP, Linux, Bash, Terraform, CI/CD, GitHub Actions, Azure.\nKey Achievements:\n- Orchestrated kubernetes clusters utilizing Bash.\n- Deployed containerized applications utilizing Linux.\n- Monitored cloud infrastructure utilizing Azure.\n- Monitored infrastructure as code utilizing Azure.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Angular, Webpack, Framer Motion, Tailwind CSS, CSS3.\nKey Achievements:\n- Optimized UI components utilizing Angular.\n- Developed UI components utilizing Webpack.\n- Implemented user interfaces utilizing CSS3.\n- Architected responsive layouts utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, FastAPI, GraphQL, Spring Boot, Python, Microservices, MongoDB, Redis.\nKey Achievements:\n- Secured microservices architectures utilizing FastAPI.\n- Secured authentication systems utilizing Express.\n- Engineered server-side logic utilizing Python.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, Django, Express, FastAPI, PostgreSQL, Java.\nKey Achievements:\n- Optimized server-side logic utilizing Java.\n- Optimized database schemas utilizing Express.\n- Optimized microservices architectures utilizing Django.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Data Analysis, Agile, Roadmapping, A/B Testing.\nKey Achievements:\n- Prioritized product roadmaps utilizing A/B Testing.\n- Strategized cross-functional teams utilizing A/B Testing.\n- Coordinated product roadmaps utilizing Roadmapping.\n- Strategized market research utilizing Data Analysis.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: JavaScript, React, Redux, Framer Motion, CSS3, HTML5, Webpack, Vue.js.\nKey Achievements:\n- Optimized UI components utilizing Redux.\n- Optimized UI components utilizing Framer Motion.\n- Designed single-page applications utilizing Vue.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Agile, A/B Testing, Confluence, Go-to-market Strategy, Roadmapping, User Interviews, Data Analysis.\nKey Achievements:\n- Launched feature launches utilizing A/B Testing.\n- Analyzed cross-functional teams utilizing Agile.\n- Coordinated product roadmaps utilizing Confluence.\n- Prioritized product roadmaps utilizing Go-to-market Strategy.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: CI/CD, GitHub Actions, Ansible, Kubernetes, Bash.\nKey Achievements:\n- Automated monitoring alerts utilizing CI/CD.\n- Orchestrated monitoring alerts utilizing CI/CD.\n- Scaled containerized applications utilizing Ansible.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: React, CSS3, HTML5, Next.js.\nKey Achievements:\n- Designed web applications utilizing Next.js.\n- Designed single-page applications utilizing React.\n- Optimized responsive layouts utilizing Next.js.\n- Designed responsive layouts utilizing React.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: React, Framer Motion, Redux, Tailwind CSS.\nKey Achievements:\n- Implemented responsive layouts utilizing React.\n- Designed frontend architectures utilizing Framer Motion.\n- Optimized single-page applications utilizing Tailwind CSS.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Adobe XD, Prototyping, InVision, Wireframing, Illustrator, Usability Testing.\nKey Achievements:\n- Researched design systems utilizing Adobe XD.\n- Conducted user journeys utilizing Wireframing.\n- Researched interactive prototypes utilizing Illustrator.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Jira, Agile, User Interviews, Data Analysis.\nKey Achievements:\n- Managed cross-functional teams utilizing Data Analysis.\n- Managed user requirements utilizing Agile.\n- Launched product roadmaps utilizing Agile.\n- Coordinated market research utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Scrum, Roadmapping, Stakeholder Management, User Interviews, A/B Testing, Jira, Go-to-market Strategy, Agile.\nKey Achievements:\n- Prioritized feature launches utilizing Agile.\n- Prioritized product roadmaps utilizing Agile.\n- Prioritized product roadmaps utilizing Stakeholder Management.\n- Launched market research utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Illustrator, User Research, Wireframing, Figma.\nKey Achievements:\n- Created wireframes utilizing User Research.\n- Designed wireframes utilizing Illustrator.\n- Researched user interfaces utilizing Wireframing.\n- Sketched user interfaces utilizing Wireframing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Redux, Vue.js, Webpack, Tailwind CSS, JavaScript, React, Next.js.\nKey Achievements:\n- Built frontend architectures utilizing React.\n- Optimized UI components utilizing Webpack.\n- Designed web applications utilizing Vue.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Machine Learning, Data Visualization, Scikit-Learn, Seaborn, SQL.\nKey Achievements:\n- Visualized A/B tests utilizing Data Visualization.\n- Analyzed A/B tests utilizing Scikit-Learn.\n- Cleaned statistical models utilizing Data Visualization.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: PyTorch, NumPy, Scikit-Learn, Seaborn, Machine Learning, SQL, Python, NLP.\nKey Achievements:\n- Evaluated neural networks utilizing NLP.\n- Predicted large datasets utilizing PyTorch.\n- Cleaned predictive models utilizing NumPy.\n- Analyzed predictive models utilizing Python.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: TensorFlow, Computer Vision, PyTorch, Data Visualization, SQL, Scikit-Learn, Pandas.\nKey Achievements:\n- Visualized large datasets utilizing PyTorch.\n- Visualized statistical models utilizing TensorFlow.\n- Trained data pipelines utilizing Data Visualization.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Bash, Azure, Grafana, Linux, Kubernetes, AWS.\nKey Achievements:\n- Deployed infrastructure as code utilizing AWS.\n- Provisioned deployment pipelines utilizing Azure.\n- Orchestrated infrastructure as code utilizing Grafana.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: NumPy, Scikit-Learn, Data Visualization, Pandas, Machine Learning.\nKey Achievements:\n- Cleaned data pipelines utilizing Data Visualization.\n- Modeled statistical models utilizing Machine Learning.\n- Analyzed regression algorithms utilizing Pandas.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, FastAPI, REST APIs, Express, MongoDB, Docker.\nKey Achievements:\n- Deployed microservices architectures utilizing REST APIs.\n- Engineered RESTful APIs utilizing Docker.\n- Scaled server-side logic utilizing Docker.\n- Built distributed systems utilizing Java.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Scrum, A/B Testing, Jira, Agile, Go-to-market Strategy, Roadmapping, User Interviews.\nKey Achievements:\n- Managed user requirements utilizing User Interviews.\n- Launched market research utilizing Jira.\n- Managed market research utilizing A/B Testing.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Adobe XD, Sketch, Prototyping, Interaction Design, Usability Testing, Figma, Illustrator, InVision.\nKey Achievements:\n- Created design systems utilizing Adobe XD.\n- Created interactive prototypes utilizing InVision.\n- Prototyped wireframes utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Seaborn, Computer Vision, TensorFlow, Python, Matplotlib, SQL, NumPy, Deep Learning.\nKey Achievements:\n- Visualized A/B tests utilizing Computer Vision.\n- Visualized regression algorithms utilizing TensorFlow.\n- Analyzed predictive models utilizing TensorFlow.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Deep Learning, PyTorch, Computer Vision, Seaborn, SQL, NumPy, Pandas.\nKey Achievements:\n- Trained predictive models utilizing PyTorch.\n- Cleaned predictive models utilizing SQL.\n- Visualized regression algorithms utilizing Seaborn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: PyTorch, NumPy, Deep Learning, NLP, Seaborn, Machine Learning.\nKey Achievements:\n- Trained statistical models utilizing NumPy.\n- Modeled A/B tests utilizing Deep Learning.\n- Visualized neural networks utilizing Deep Learning.\n- Analyzed data pipelines utilizing PyTorch.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: REST APIs, MongoDB, FastAPI, Microservices, Express, PostgreSQL, Spring Boot.\nKey Achievements:\n- Maintained database schemas utilizing REST APIs.\n- Scaled authentication systems utilizing REST APIs.\n- Secured RESTful APIs utilizing PostgreSQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Machine Learning, Python, Seaborn, PyTorch, Pandas, Matplotlib.\nKey Achievements:\n- Cleaned statistical models utilizing Seaborn.\n- Evaluated neural networks utilizing Seaborn.\n- Modeled neural networks utilizing Pandas.\n- Cleaned large datasets utilizing Seaborn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Prototyping, Interaction Design, Adobe XD, InVision.\nKey Achievements:\n- Prototyped high-fidelity mockups utilizing Interaction Design.\n- Designed wireframes utilizing Interaction Design.\n- Researched interactive prototypes utilizing Prototyping.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: SQL, TensorFlow, Scikit-Learn, NLP, NumPy.\nKey Achievements:\n- Predicted neural networks utilizing NLP.\n- Trained neural networks utilizing NumPy.\n- Modeled data pipelines utilizing NumPy.\n- Evaluated A/B tests utilizing SQL.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: CI/CD, Linux, GCP, Terraform, Docker, Azure, Kubernetes.\nKey Achievements:\n- Provisioned deployment pipelines utilizing Linux.\n- Orchestrated infrastructure as code utilizing Azure.\n- Deployed containerized applications utilizing Azure.\n- Automated infrastructure as code utilizing GCP.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: A/B Testing, Scrum, Jira, Confluence.\nKey Achievements:\n- Coordinated user requirements utilizing A/B Testing.\n- Managed cross-functional teams utilizing Scrum.\n- Prioritized sprint cycles utilizing Scrum.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Agile, Stakeholder Management, User Interviews, Scrum, Data Analysis, Go-to-market Strategy.\nKey Achievements:\n- Prioritized cross-functional teams utilizing User Interviews.\n- Prioritized sprint cycles utilizing Data Analysis.\n- Strategized user requirements utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Photoshop, User Research, Illustrator, Wireframing, Sketch, Prototyping.\nKey Achievements:\n- Designed design systems utilizing Wireframing.\n- Prototyped design systems utilizing User Research.\n- Conducted interactive prototypes utilizing Sketch.\n- Iterated user journeys utilizing User Research.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Jira, User Interviews, Agile, Data Analysis, Roadmapping, Scrum, Stakeholder Management.\nKey Achievements:\n- Led user requirements utilizing Agile.\n- Coordinated market research utilizing Jira.\n- Managed feature launches utilizing Jira.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Data Analysis, A/B Testing, Agile, Scrum.\nKey Achievements:\n- Strategized user requirements utilizing A/B Testing.\n- Managed cross-functional teams utilizing Data Analysis.\n- Strategized feature launches utilizing Agile.\n- Analyzed product roadmaps utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: CSS3, Webpack, Tailwind CSS, Vue.js, Next.js.\nKey Achievements:\n- Optimized frontend architectures utilizing Webpack.\n- Maintained user interfaces utilizing Vue.js.\n- Optimized single-page applications utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: InVision, Figma, User Research, Prototyping, Wireframing, Interaction Design, Sketch, Adobe XD.\nKey Achievements:\n- Iterated wireframes utilizing Prototyping.\n- Conducted design systems utilizing Wireframing.\n- Sketched usability studies utilizing User Research.\n- Conducted wireframes utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: React, Next.js, CSS3, Framer Motion, Tailwind CSS.\nKey Achievements:\n- Architected responsive layouts utilizing Tailwind CSS.\n- Optimized UI components utilizing React.\n- Optimized single-page applications utilizing React.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, PostgreSQL, Docker, Redis, Python, FastAPI, MongoDB.\nKey Achievements:\n- Scaled microservices architectures utilizing FastAPI.\n- Deployed database schemas utilizing Python.\n- Scaled microservices architectures utilizing PostgreSQL.\n- Built authentication systems utilizing Docker.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Sketch, InVision, Figma, Wireframing, Photoshop, Adobe XD, Interaction Design, Illustrator.\nKey Achievements:\n- Sketched interactive prototypes utilizing Photoshop.\n- Sketched wireframes utilizing Sketch.\n- Conducted user journeys utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Confluence, Data Analysis, Agile, User Interviews, Stakeholder Management, Roadmapping, Scrum.\nKey Achievements:\n- Strategized product roadmaps utilizing Stakeholder Management.\n- Prioritized feature launches utilizing Scrum.\n- Launched market research utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: A/B Testing, User Interviews, Confluence, Go-to-market Strategy, Scrum, Roadmapping.\nKey Achievements:\n- Managed feature launches utilizing Go-to-market Strategy.\n- Analyzed sprint cycles utilizing A/B Testing.\n- Managed product roadmaps utilizing Go-to-market Strategy.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, REST APIs, GraphQL, FastAPI, Node.js, Django.\nKey Achievements:\n- Built RESTful APIs utilizing FastAPI.\n- Maintained authentication systems utilizing REST APIs.\n- Engineered distributed systems utilizing Django.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GCP, Azure, Bash, Ansible.\nKey Achievements:\n- Orchestrated infrastructure as code utilizing Azure.\n- Secured cloud infrastructure utilizing Azure.\n- Monitored kubernetes clusters utilizing Ansible.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Ansible, Azure, Jenkins, Bash, CI/CD, AWS.\nKey Achievements:\n- Provisioned kubernetes clusters utilizing CI/CD.\n- Secured monitoring alerts utilizing AWS.\n- Monitored containerized applications utilizing AWS.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: TypeScript, React, JavaScript, HTML5, Next.js.\nKey Achievements:\n- Maintained web applications utilizing JavaScript.\n- Developed single-page applications utilizing Next.js.\n- Optimized UI components utilizing React.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Webpack, JavaScript, TypeScript, CSS3.\nKey Achievements:\n- Maintained web applications utilizing Webpack.\n- Architected single-page applications utilizing TypeScript.\n- Maintained single-page applications utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Seaborn, Data Visualization, Computer Vision, SQL, Scikit-Learn, TensorFlow, PyTorch, NumPy.\nKey Achievements:\n- Modeled data pipelines utilizing PyTorch.\n- Trained predictive models utilizing SQL.\n- Analyzed large datasets utilizing NumPy.\n- Analyzed neural networks utilizing Data Visualization.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Adobe XD, Sketch, Prototyping, InVision.\nKey Achievements:\n- Prototyped usability studies utilizing Prototyping.\n- Designed high-fidelity mockups utilizing Prototyping.\n- Researched wireframes utilizing Prototyping.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Prototyping, Interaction Design, Illustrator, Figma, Wireframing, User Research.\nKey Achievements:\n- Sketched user interfaces utilizing Illustrator.\n- Prototyped user journeys utilizing Interaction Design.\n- Sketched usability studies utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Jenkins, GitHub Actions, AWS, Kubernetes.\nKey Achievements:\n- Scaled infrastructure as code utilizing Kubernetes.\n- Automated deployment pipelines utilizing Kubernetes.\n- Deployed deployment pipelines utilizing AWS.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Angular, Tailwind CSS, Redux, JavaScript, Vue.js.\nKey Achievements:\n- Developed responsive layouts utilizing JavaScript.\n- Designed UI components utilizing Redux.\n- Developed web applications utilizing Angular.\n- Built user interfaces utilizing Angular.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Photoshop, InVision, Wireframing, Figma, User Research.\nKey Achievements:\n- Conducted user interfaces utilizing Figma.\n- Created design systems utilizing Figma.\n- Conducted interactive prototypes utilizing Wireframing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Django, Python, REST APIs, Java, FastAPI.\nKey Achievements:\n- Built microservices architectures utilizing FastAPI.\n- Optimized authentication systems utilizing Java.\n- Maintained authentication systems utilizing Python.\n- Scaled server-side logic utilizing REST APIs.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Spring Boot, Redis, Docker, Express, GraphQL, FastAPI.\nKey Achievements:\n- Optimized database schemas utilizing Docker.\n- Secured distributed systems utilizing Docker.\n- Secured server-side logic utilizing GraphQL.\n- Secured database schemas utilizing Docker.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Pandas, TensorFlow, Machine Learning, PyTorch, Data Visualization, NumPy, Python, NLP.\nKey Achievements:\n- Evaluated A/B tests utilizing TensorFlow.\n- Predicted regression algorithms utilizing NumPy.\n- Modeled data pipelines utilizing NLP.\n- Modeled regression algorithms utilizing Machine Learning.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Roadmapping, Stakeholder Management, Agile, Go-to-market Strategy, User Interviews, Jira, Data Analysis.\nKey Achievements:\n- Managed feature launches utilizing User Interviews.\n- Managed user requirements utilizing Roadmapping.\n- Strategized sprint cycles utilizing Stakeholder Management.\n- Prioritized market research utilizing Stakeholder Management.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: User Interviews, Stakeholder Management, Confluence, A/B Testing, Roadmapping, Jira, Scrum.\nKey Achievements:\n- Coordinated feature launches utilizing Scrum.\n- Coordinated user requirements utilizing Roadmapping.\n- Launched cross-functional teams utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, Docker, Django, REST APIs, PostgreSQL, Redis, MongoDB.\nKey Achievements:\n- Optimized microservices architectures utilizing Django.\n- Secured microservices architectures utilizing REST APIs.\n- Scaled database schemas utilizing Django.\n- Scaled distributed systems utilizing PostgreSQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Wireframing, Figma, Prototyping, User Research, Usability Testing, InVision, Adobe XD.\nKey Achievements:\n- Prototyped user interfaces utilizing Prototyping.\n- Iterated design systems utilizing Figma.\n- Sketched interactive prototypes utilizing Wireframing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Linux, Jenkins, Grafana, Azure, Kubernetes.\nKey Achievements:\n- Deployed kubernetes clusters utilizing Jenkins.\n- Monitored infrastructure as code utilizing Jenkins.\n- Provisioned deployment pipelines utilizing Grafana.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, Java, Django, FastAPI, Python, MongoDB, PostgreSQL.\nKey Achievements:\n- Secured distributed systems utilizing FastAPI.\n- Maintained server-side logic utilizing FastAPI.\n- Deployed distributed systems utilizing MongoDB.\n- Built database schemas utilizing FastAPI.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Agile, User Interviews, Go-to-market Strategy, Data Analysis, Scrum.\nKey Achievements:\n- Coordinated sprint cycles utilizing Agile.\n- Led product roadmaps utilizing Scrum.\n- Managed sprint cycles utilizing User Interviews.\n- Strategized sprint cycles utilizing Scrum.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Scikit-Learn, Matplotlib, NumPy, Python, Pandas, Seaborn.\nKey Achievements:\n- Evaluated regression algorithms utilizing Pandas.\n- Modeled large datasets utilizing Seaborn.\n- Predicted large datasets utilizing Pandas.\n- Analyzed predictive models utilizing Seaborn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: REST APIs, Python, MongoDB, FastAPI, Redis, Express, Java, GraphQL.\nKey Achievements:\n- Built server-side logic utilizing REST APIs.\n- Optimized microservices architectures utilizing REST APIs.\n- Engineered authentication systems utilizing Java.\n- Engineered distributed systems utilizing MongoDB.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Matplotlib, Computer Vision, Deep Learning, Machine Learning, Pandas, Seaborn.\nKey Achievements:\n- Predicted neural networks utilizing Pandas.\n- Analyzed large datasets utilizing Machine Learning.\n- Analyzed regression algorithms utilizing Seaborn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: TypeScript, Framer Motion, React, Tailwind CSS, Angular, Next.js, JavaScript, Vue.js.\nKey Achievements:\n- Architected single-page applications utilizing Next.js.\n- Designed single-page applications utilizing Angular.\n- Built single-page applications utilizing Angular.\n- Designed user interfaces utilizing JavaScript.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Terraform, GCP, AWS, Jenkins, Linux, Grafana, GitHub Actions.\nKey Achievements:\n- Deployed containerized applications utilizing Terraform.\n- Automated kubernetes clusters utilizing AWS.\n- Scaled kubernetes clusters utilizing Linux.\n- Secured deployment pipelines utilizing Terraform.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: PostgreSQL, Docker, Microservices, GraphQL, FastAPI, Java.\nKey Achievements:\n- Deployed authentication systems utilizing Microservices.\n- Engineered distributed systems utilizing FastAPI.\n- Deployed database schemas utilizing FastAPI.\n- Secured RESTful APIs utilizing FastAPI.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Linux, Bash, CI/CD, AWS, GCP.\nKey Achievements:\n- Deployed monitoring alerts utilizing GCP.\n- Provisioned infrastructure as code utilizing Bash.\n- Orchestrated monitoring alerts utilizing Linux.\n- Monitored cloud infrastructure utilizing Bash.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: PostgreSQL, Microservices, Java, MongoDB, Redis.\nKey Achievements:\n- Deployed distributed systems utilizing PostgreSQL.\n- Maintained RESTful APIs utilizing Microservices.\n- Scaled distributed systems utilizing Java.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Roadmapping, Confluence, User Interviews, Jira, Go-to-market Strategy, Data Analysis, A/B Testing, Scrum.\nKey Achievements:\n- Launched feature launches utilizing Jira.\n- Managed feature launches utilizing Scrum.\n- Prioritized user requirements utilizing Roadmapping.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Data Analysis, Go-to-market Strategy, Confluence, Stakeholder Management, Scrum, User Interviews.\nKey Achievements:\n- Coordinated product roadmaps utilizing Confluence.\n- Managed feature launches utilizing Scrum.\n- Analyzed user requirements utilizing Go-to-market Strategy.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: User Research, Wireframing, Photoshop, Adobe XD.\nKey Achievements:\n- Conducted user journeys utilizing Wireframing.\n- Researched usability studies utilizing Photoshop.\n- Prototyped interactive prototypes utilizing Photoshop.\n- Prototyped high-fidelity mockups utilizing Photoshop.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GitHub Actions, AWS, Grafana, Linux, Jenkins, Ansible, CI/CD, GCP.\nKey Achievements:\n- Deployed deployment pipelines utilizing AWS.\n- Scaled containerized applications utilizing AWS.\n- Scaled deployment pipelines utilizing GitHub Actions.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Prototyping, Figma, Illustrator, User Research, Interaction Design, InVision, Adobe XD, Wireframing.\nKey Achievements:\n- Researched interactive prototypes utilizing InVision.\n- Iterated wireframes utilizing Figma.\n- Designed design systems utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: TensorFlow, Computer Vision, NLP, Deep Learning, Machine Learning, Matplotlib.\nKey Achievements:\n- Cleaned data pipelines utilizing Machine Learning.\n- Modeled regression algorithms utilizing Machine Learning.\n- Predicted predictive models utilizing Computer Vision.\n- Cleaned neural networks utilizing Deep Learning.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Go-to-market Strategy, Scrum, A/B Testing, Jira.\nKey Achievements:\n- Coordinated user requirements utilizing Jira.\n- Strategized market research utilizing Scrum.\n- Coordinated product roadmaps utilizing A/B Testing.\n- Strategized user requirements utilizing A/B Testing.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Docker, CI/CD, AWS, Linux, Jenkins, Prometheus, GitHub Actions.\nKey Achievements:\n- Orchestrated monitoring alerts utilizing Prometheus.\n- Automated deployment pipelines utilizing Jenkins.\n- Automated containerized applications utilizing Docker.\n- Secured infrastructure as code utilizing AWS.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Docker, CI/CD, Prometheus, Bash.\nKey Achievements:\n- Secured monitoring alerts utilizing Docker.\n- Monitored kubernetes clusters utilizing Prometheus.\n- Automated monitoring alerts utilizing Prometheus.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, Python, GraphQL, Node.js.\nKey Achievements:\n- Scaled RESTful APIs utilizing Java.\n- Optimized microservices architectures utilizing Python.\n- Secured microservices architectures utilizing Python.\n- Maintained database schemas utilizing Python.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Linux, Prometheus, Terraform, Jenkins, GitHub Actions, Grafana, GCP.\nKey Achievements:\n- Monitored cloud infrastructure utilizing Linux.\n- Automated infrastructure as code utilizing Terraform.\n- Secured monitoring alerts utilizing GCP.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Bash, Terraform, Prometheus, GitHub Actions, Jenkins.\nKey Achievements:\n- Provisioned cloud infrastructure utilizing Bash.\n- Automated deployment pipelines utilizing Prometheus.\n- Automated kubernetes clusters utilizing GitHub Actions.\n- Automated containerized applications utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Prototyping, Photoshop, Usability Testing, Figma.\nKey Achievements:\n- Sketched usability studies utilizing Photoshop.\n- Researched usability studies utilizing Photoshop.\n- Designed user journeys utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Framer Motion, HTML5, CSS3, JavaScript.\nKey Achievements:\n- Built frontend architectures utilizing JavaScript.\n- Implemented user interfaces utilizing JavaScript.\n- Developed UI components utilizing Framer Motion.\n- Implemented UI components utilizing HTML5.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Figma, Photoshop, Wireframing, Usability Testing, Adobe XD.\nKey Achievements:\n- Created high-fidelity mockups utilizing Wireframing.\n- Created usability studies utilizing Usability Testing.\n- Researched usability studies utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Sketch, Usability Testing, User Research, Figma, Adobe XD, Wireframing, Interaction Design, Illustrator.\nKey Achievements:\n- Researched design systems utilizing User Research.\n- Iterated user interfaces utilizing Figma.\n- Prototyped usability studies utilizing Illustrator.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, Redux, TypeScript, Next.js, Framer Motion, JavaScript.\nKey Achievements:\n- Developed frontend architectures utilizing Redux.\n- Designed user interfaces utilizing JavaScript.\n- Optimized responsive layouts utilizing TypeScript.\n- Optimized UI components utilizing JavaScript.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Wireframing, Usability Testing, Prototyping, Interaction Design, Sketch, User Research, Figma, InVision.\nKey Achievements:\n- Created usability studies utilizing Wireframing.\n- Designed user journeys utilizing Usability Testing.\n- Designed design systems utilizing InVision.\n- Created high-fidelity mockups utilizing Wireframing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: JavaScript, Next.js, Webpack, CSS3, TypeScript, React, HTML5, Redux.\nKey Achievements:\n- Designed web applications utilizing React.\n- Architected single-page applications utilizing React.\n- Built single-page applications utilizing Next.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Confluence, User Interviews, Roadmapping, Agile, Data Analysis, Stakeholder Management, Scrum.\nKey Achievements:\n- Coordinated product roadmaps utilizing Data Analysis.\n- Launched cross-functional teams utilizing Data Analysis.\n- Led cross-functional teams utilizing Data Analysis.\n- Coordinated cross-functional teams utilizing User Interviews.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, Python, REST APIs, GraphQL.\nKey Achievements:\n- Deployed distributed systems utilizing Python.\n- Engineered RESTful APIs utilizing Java.\n- Scaled distributed systems utilizing Python.\n- Deployed database schemas utilizing Java.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Framer Motion, React, CSS3, Angular, Next.js, Vue.js.\nKey Achievements:\n- Built user interfaces utilizing CSS3.\n- Architected frontend architectures utilizing React.\n- Maintained single-page applications utilizing Vue.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Figma, Sketch, Wireframing, Interaction Design, Prototyping, Photoshop, Adobe XD.\nKey Achievements:\n- Designed user interfaces utilizing Adobe XD.\n- Created wireframes utilizing Photoshop.\n- Created design systems utilizing Interaction Design.\n- Prototyped design systems utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Go-to-market Strategy, User Interviews, Confluence, Data Analysis, Stakeholder Management, A/B Testing, Scrum.\nKey Achievements:\n- Managed market research utilizing Scrum.\n- Led cross-functional teams utilizing User Interviews.\n- Analyzed feature launches utilizing Confluence.\n- Prioritized feature launches utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Tailwind CSS, HTML5, React, Redux, Framer Motion, Angular, Next.js.\nKey Achievements:\n- Designed single-page applications utilizing React.\n- Implemented web applications utilizing Redux.\n- Architected user interfaces utilizing Framer Motion.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, CSS3, Angular, React, Framer Motion, Tailwind CSS.\nKey Achievements:\n- Designed user interfaces utilizing Tailwind CSS.\n- Optimized frontend architectures utilizing CSS3.\n- Optimized single-page applications utilizing Framer Motion.\n- Optimized frontend architectures utilizing React.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, Figma, Photoshop, Sketch.\nKey Achievements:\n- Prototyped wireframes utilizing Figma.\n- Sketched user interfaces utilizing Photoshop.\n- Created usability studies utilizing Usability Testing.\n- Researched user journeys utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, Django, Microservices, Express, GraphQL.\nKey Achievements:\n- Optimized distributed systems utilizing GraphQL.\n- Deployed database schemas utilizing Express.\n- Secured authentication systems utilizing Django.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Angular, Redux, Tailwind CSS, CSS3, TypeScript.\nKey Achievements:\n- Architected responsive layouts utilizing Redux.\n- Optimized frontend architectures utilizing Redux.\n- Maintained user interfaces utilizing Tailwind CSS.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, FastAPI, GraphQL, Python.\nKey Achievements:\n- Scaled distributed systems utilizing Java.\n- Secured RESTful APIs utilizing Java.\n- Optimized server-side logic utilizing GraphQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, Tailwind CSS, Angular, JavaScript.\nKey Achievements:\n- Designed single-page applications utilizing Tailwind CSS.\n- Developed single-page applications utilizing Tailwind CSS.\n- Optimized single-page applications utilizing Angular.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Seaborn, Deep Learning, Computer Vision, NumPy.\nKey Achievements:\n- Predicted large datasets utilizing NumPy.\n- Trained large datasets utilizing Deep Learning.\n- Visualized regression algorithms utilizing Deep Learning.\n- Visualized regression algorithms utilizing Computer Vision.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Pandas, Machine Learning, Matplotlib, Data Visualization, Deep Learning, Computer Vision, PyTorch, NumPy.\nKey Achievements:\n- Predicted data pipelines utilizing Pandas.\n- Predicted predictive models utilizing Pandas.\n- Analyzed regression algorithms utilizing Matplotlib.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Grafana, Prometheus, Bash, AWS, GitHub Actions.\nKey Achievements:\n- Orchestrated monitoring alerts utilizing GitHub Actions.\n- Scaled monitoring alerts utilizing Grafana.\n- Automated monitoring alerts utilizing Bash.\n- Scaled cloud infrastructure utilizing Prometheus.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: CI/CD, Jenkins, AWS, Azure, GitHub Actions, Bash, Prometheus.\nKey Achievements:\n- Scaled deployment pipelines utilizing Jenkins.\n- Automated kubernetes clusters utilizing GitHub Actions.\n- Orchestrated monitoring alerts utilizing Prometheus.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Framer Motion, CSS3, Next.js, Tailwind CSS, JavaScript, Angular.\nKey Achievements:\n- Developed UI components utilizing Next.js.\n- Optimized web applications utilizing Next.js.\n- Architected UI components utilizing JavaScript.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: A/B Testing, Data Analysis, Stakeholder Management, Go-to-market Strategy.\nKey Achievements:\n- Coordinated market research utilizing Data Analysis.\n- Led sprint cycles utilizing Stakeholder Management.\n- Analyzed feature launches utilizing Stakeholder Management.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: AWS, Ansible, Prometheus, Azure, GCP, Terraform, Grafana.\nKey Achievements:\n- Deployed infrastructure as code utilizing Grafana.\n- Orchestrated infrastructure as code utilizing Azure.\n- Deployed monitoring alerts utilizing Azure.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: MongoDB, Spring Boot, Docker, Java, Express, Redis, Python.\nKey Achievements:\n- Engineered authentication systems utilizing MongoDB.\n- Built authentication systems utilizing Python.\n- Secured microservices architectures utilizing Express.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: NumPy, Pandas, Python, TensorFlow, SQL.\nKey Achievements:\n- Visualized A/B tests utilizing Python.\n- Cleaned statistical models utilizing Pandas.\n- Analyzed large datasets utilizing SQL.\n- Predicted large datasets utilizing Pandas.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: InVision, Prototyping, Interaction Design, Figma, Wireframing, Photoshop, Usability Testing, Adobe XD.\nKey Achievements:\n- Iterated usability studies utilizing Adobe XD.\n- Sketched user journeys utilizing Photoshop.\n- Designed user interfaces utilizing Photoshop.\n- Prototyped design systems utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, Microservices, Express, Java, MongoDB.\nKey Achievements:\n- Deployed RESTful APIs utilizing MongoDB.\n- Deployed authentication systems utilizing Python.\n- Engineered RESTful APIs utilizing MongoDB.\n- Secured database schemas utilizing MongoDB.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: User Interviews, Scrum, Jira, Agile, Roadmapping, Stakeholder Management, Confluence, Data Analysis.\nKey Achievements:\n- Coordinated user requirements utilizing Stakeholder Management.\n- Strategized user requirements utilizing Jira.\n- Coordinated product roadmaps utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Scrum, Go-to-market Strategy, Agile, Confluence, Stakeholder Management.\nKey Achievements:\n- Managed sprint cycles utilizing Agile.\n- Prioritized cross-functional teams utilizing Stakeholder Management.\n- Coordinated feature launches utilizing Scrum.\n- Strategized feature launches utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, FastAPI, MongoDB, REST APIs, Docker, GraphQL, PostgreSQL.\nKey Achievements:\n- Maintained distributed systems utilizing GraphQL.\n- Optimized authentication systems utilizing MongoDB.\n- Scaled database schemas utilizing FastAPI.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Scrum, Stakeholder Management, User Interviews, Roadmapping, Jira, A/B Testing.\nKey Achievements:\n- Strategized cross-functional teams utilizing Scrum.\n- Managed market research utilizing Scrum.\n- Led cross-functional teams utilizing Stakeholder Management.\n- Strategized feature launches utilizing Jira.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Scikit-Learn, NumPy, Machine Learning, TensorFlow, Matplotlib, SQL.\nKey Achievements:\n- Analyzed predictive models utilizing Machine Learning.\n- Visualized neural networks utilizing Scikit-Learn.\n- Predicted neural networks utilizing TensorFlow.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: A/B Testing, Confluence, Scrum, Stakeholder Management, User Interviews, Agile, Roadmapping.\nKey Achievements:\n- Led user requirements utilizing A/B Testing.\n- Prioritized user requirements utilizing User Interviews.\n- Strategized cross-functional teams utilizing Scrum.\n- Analyzed product roadmaps utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Wireframing, Adobe XD, Interaction Design, Prototyping, InVision, User Research, Sketch.\nKey Achievements:\n- Researched usability studies utilizing Interaction Design.\n- Sketched user journeys utilizing Interaction Design.\n- Iterated user interfaces utilizing Prototyping.\n- Researched high-fidelity mockups utilizing Sketch.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Framer Motion, CSS3, Redux, JavaScript.\nKey Achievements:\n- Built frontend architectures utilizing JavaScript.\n- Developed UI components utilizing Framer Motion.\n- Built web applications utilizing CSS3.\n- Built frontend architectures utilizing Framer Motion.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, Microservices, Express, Python, Django, FastAPI.\nKey Achievements:\n- Optimized database schemas utilizing Python.\n- Maintained database schemas utilizing Django.\n- Optimized database schemas utilizing Java.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Pandas, Deep Learning, Seaborn, NLP, Data Visualization, PyTorch, Computer Vision, NumPy.\nKey Achievements:\n- Modeled data pipelines utilizing NLP.\n- Trained neural networks utilizing Computer Vision.\n- Evaluated A/B tests utilizing NumPy.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Stakeholder Management, Confluence, Go-to-market Strategy, Data Analysis, Scrum, Jira.\nKey Achievements:\n- Analyzed feature launches utilizing Data Analysis.\n- Managed user requirements utilizing Go-to-market Strategy.\n- Strategized cross-functional teams utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Next.js, TypeScript, HTML5, Redux.\nKey Achievements:\n- Optimized frontend architectures utilizing Next.js.\n- Implemented single-page applications utilizing HTML5.\n- Designed responsive layouts utilizing HTML5.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, Vue.js, Angular, Next.js, JavaScript, TypeScript.\nKey Achievements:\n- Maintained single-page applications utilizing Next.js.\n- Built UI components utilizing Vue.js.\n- Built responsive layouts utilizing Angular.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Sketch, Interaction Design, Figma, Usability Testing, Adobe XD.\nKey Achievements:\n- Iterated user journeys utilizing Interaction Design.\n- Conducted user journeys utilizing Adobe XD.\n- Conducted user interfaces utilizing Sketch.\n- Prototyped design systems utilizing Usability Testing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Deep Learning, NumPy, Python, PyTorch, Machine Learning, Seaborn, Scikit-Learn.\nKey Achievements:\n- Evaluated regression algorithms utilizing Deep Learning.\n- Trained A/B tests utilizing Machine Learning.\n- Visualized A/B tests utilizing Python.\n- Evaluated regression algorithms utilizing NumPy.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Prometheus, Grafana, GitHub Actions, Bash, Docker, AWS, Azure, Ansible.\nKey Achievements:\n- Automated kubernetes clusters utilizing Grafana.\n- Deployed containerized applications utilizing GitHub Actions.\n- Orchestrated infrastructure as code utilizing Docker.\n- Secured kubernetes clusters utilizing AWS.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Illustrator, Photoshop, Adobe XD, Prototyping, User Research, Usability Testing, InVision.\nKey Achievements:\n- Iterated user journeys utilizing Prototyping.\n- Researched wireframes utilizing Usability Testing.\n- Designed high-fidelity mockups utilizing Usability Testing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, Angular, Webpack, React, Next.js, CSS3, Redux, Framer Motion.\nKey Achievements:\n- Designed frontend architectures utilizing Next.js.\n- Implemented single-page applications utilizing Framer Motion.\n- Built frontend architectures utilizing Next.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Photoshop, Figma, Interaction Design, InVision, Usability Testing, User Research, Prototyping, Wireframing.\nKey Achievements:\n- Researched design systems utilizing User Research.\n- Designed wireframes utilizing Interaction Design.\n- Sketched high-fidelity mockups utilizing User Research.\n- Prototyped usability studies utilizing InVision.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: User Research, Prototyping, Photoshop, Figma, InVision, Wireframing, Interaction Design.\nKey Achievements:\n- Sketched design systems utilizing Wireframing.\n- Sketched user interfaces utilizing InVision.\n- Researched design systems utilizing Prototyping.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: A/B Testing, Data Analysis, Stakeholder Management, Jira, Agile, Go-to-market Strategy, Roadmapping.\nKey Achievements:\n- Managed user requirements utilizing Data Analysis.\n- Strategized cross-functional teams utilizing A/B Testing.\n- Analyzed cross-functional teams utilizing Stakeholder Management.\n- Analyzed feature launches utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Roadmapping, User Interviews, Go-to-market Strategy, Data Analysis, Agile, Confluence, Stakeholder Management.\nKey Achievements:\n- Coordinated cross-functional teams utilizing Go-to-market Strategy.\n- Coordinated sprint cycles utilizing Data Analysis.\n- Strategized sprint cycles utilizing Agile.\n- Strategized cross-functional teams utilizing Data Analysis.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: User Interviews, Agile, Roadmapping, Data Analysis, Stakeholder Management, Confluence.\nKey Achievements:\n- Strategized product roadmaps utilizing Stakeholder Management.\n- Analyzed product roadmaps utilizing Data Analysis.\n- Strategized user requirements utilizing Roadmapping.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GitHub Actions, Terraform, Linux, Prometheus, Azure.\nKey Achievements:\n- Deployed cloud infrastructure utilizing Terraform.\n- Automated infrastructure as code utilizing Terraform.\n- Automated infrastructure as code utilizing Terraform.\n- Secured deployment pipelines utilizing Prometheus.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Go-to-market Strategy, A/B Testing, Data Analysis, Stakeholder Management, User Interviews, Scrum, Confluence, Agile.\nKey Achievements:\n- Strategized user requirements utilizing Agile.\n- Managed user requirements utilizing Scrum.\n- Launched sprint cycles utilizing Data Analysis.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Node.js, Spring Boot, Docker, MongoDB, GraphQL, Express.\nKey Achievements:\n- Secured database schemas utilizing Node.js.\n- Scaled distributed systems utilizing GraphQL.\n- Optimized distributed systems utilizing Express.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Next.js, Framer Motion, Vue.js, HTML5.\nKey Achievements:\n- Architected web applications utilizing Framer Motion.\n- Architected web applications utilizing Vue.js.\n- Maintained UI components utilizing HTML5.\n- Maintained frontend architectures utilizing HTML5.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, Django, Express, Node.js, PostgreSQL, REST APIs, Docker.\nKey Achievements:\n- Scaled database schemas utilizing PostgreSQL.\n- Built authentication systems utilizing Django.\n- Scaled server-side logic utilizing PostgreSQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Computer Vision, PyTorch, Seaborn, SQL, TensorFlow, Machine Learning, Data Visualization, Python.\nKey Achievements:\n- Trained regression algorithms utilizing PyTorch.\n- Cleaned statistical models utilizing Machine Learning.\n- Cleaned predictive models utilizing PyTorch.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: React, Angular, CSS3, Redux, JavaScript, Vue.js, Tailwind CSS.\nKey Achievements:\n- Developed UI components utilizing Tailwind CSS.\n- Optimized responsive layouts utilizing React.\n- Implemented frontend architectures utilizing Angular.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: GraphQL, Express, MongoDB, Spring Boot, Microservices, FastAPI, Docker.\nKey Achievements:\n- Built RESTful APIs utilizing FastAPI.\n- Maintained microservices architectures utilizing FastAPI.\n- Scaled server-side logic utilizing Express.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Kubernetes, Jenkins, GitHub Actions, Ansible, Azure, GCP, Linux.\nKey Achievements:\n- Provisioned deployment pipelines utilizing Kubernetes.\n- Automated infrastructure as code utilizing Linux.\n- Automated infrastructure as code utilizing Azure.\n- Scaled kubernetes clusters utilizing Azure.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Photoshop, User Research, Usability Testing, Illustrator, Figma.\nKey Achievements:\n- Prototyped design systems utilizing User Research.\n- Prototyped high-fidelity mockups utilizing Usability Testing.\n- Sketched interactive prototypes utilizing Usability Testing.\n- Researched user journeys utilizing Illustrator.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Docker, Bash, Prometheus, CI/CD, Grafana, AWS, Terraform, Jenkins.\nKey Achievements:\n- Orchestrated monitoring alerts utilizing Grafana.\n- Provisioned containerized applications utilizing Terraform.\n- Secured cloud infrastructure utilizing Prometheus.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Tailwind CSS, Redux, Vue.js, Framer Motion, TypeScript, CSS3.\nKey Achievements:\n- Implemented user interfaces utilizing Tailwind CSS.\n- Designed UI components utilizing Vue.js.\n- Maintained UI components utilizing CSS3.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Docker, Ansible, GitHub Actions, GCP, Terraform, Linux, AWS, Jenkins.\nKey Achievements:\n- Deployed deployment pipelines utilizing GCP.\n- Secured cloud infrastructure utilizing Docker.\n- Provisioned kubernetes clusters utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, Prototyping, Adobe XD, User Research, Figma, Wireframing.\nKey Achievements:\n- Sketched wireframes utilizing Figma.\n- Researched usability studies utilizing Usability Testing.\n- Created user interfaces utilizing Figma.\n- Created high-fidelity mockups utilizing Adobe XD.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: User Research, Illustrator, InVision, Usability Testing, Figma, Interaction Design, Wireframing, Sketch.\nKey Achievements:\n- Created user journeys utilizing Usability Testing.\n- Researched high-fidelity mockups utilizing Figma.\n- Designed wireframes utilizing Usability Testing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Ansible, AWS, Docker, Azure, Prometheus, Jenkins, Bash.\nKey Achievements:\n- Provisioned infrastructure as code utilizing Ansible.\n- Deployed kubernetes clusters utilizing AWS.\n- Deployed kubernetes clusters utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: User Interviews, Agile, Scrum, Go-to-market Strategy, Data Analysis, A/B Testing.\nKey Achievements:\n- Strategized user requirements utilizing A/B Testing.\n- Analyzed sprint cycles utilizing Go-to-market Strategy.\n- Analyzed sprint cycles utilizing A/B Testing.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Pandas, PyTorch, Deep Learning, Python.\nKey Achievements:\n- Trained predictive models utilizing Python.\n- Modeled A/B tests utilizing Deep Learning.\n- Visualized predictive models utilizing Python.\n- Cleaned statistical models utilizing Deep Learning.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: SQL, Scikit-Learn, Python, TensorFlow, Machine Learning, Pandas.\nKey Achievements:\n- Modeled predictive models utilizing TensorFlow.\n- Trained regression algorithms utilizing Python.\n- Evaluated data pipelines utilizing TensorFlow.\n- Predicted large datasets utilizing SQL.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Linux, Docker, Bash, Prometheus, Terraform, GitHub Actions.\nKey Achievements:\n- Secured monitoring alerts utilizing GitHub Actions.\n- Deployed containerized applications utilizing GitHub Actions.\n- Provisioned infrastructure as code utilizing Bash.\n- Automated containerized applications utilizing Prometheus.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Django, GraphQL, Node.js, Spring Boot, Python, Microservices, Express.\nKey Achievements:\n- Built RESTful APIs utilizing Python.\n- Engineered server-side logic utilizing Spring Boot.\n- Built RESTful APIs utilizing GraphQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Go-to-market Strategy, Stakeholder Management, Agile, Data Analysis, Confluence, Roadmapping, Jira.\nKey Achievements:\n- Led product roadmaps utilizing Go-to-market Strategy.\n- Strategized market research utilizing Roadmapping.\n- Strategized cross-functional teams utilizing Agile.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Grafana, Jenkins, Azure, GCP, Terraform, Ansible, GitHub Actions.\nKey Achievements:\n- Monitored monitoring alerts utilizing Terraform.\n- Orchestrated monitoring alerts utilizing GCP.\n- Monitored containerized applications utilizing GCP.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Ansible, Kubernetes, AWS, CI/CD, Azure, GCP, Linux.\nKey Achievements:\n- Provisioned cloud infrastructure utilizing CI/CD.\n- Monitored containerized applications utilizing Ansible.\n- Provisioned deployment pipelines utilizing CI/CD.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Next.js, Vue.js, Webpack, Angular, TypeScript, React, Tailwind CSS.\nKey Achievements:\n- Optimized frontend architectures utilizing Vue.js.\n- Optimized frontend architectures utilizing Tailwind CSS.\n- Maintained responsive layouts utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Prometheus, Kubernetes, Bash, Docker, Azure, CI/CD, GitHub Actions, AWS.\nKey Achievements:\n- Provisioned kubernetes clusters utilizing Azure.\n- Monitored monitoring alerts utilizing Kubernetes.\n- Provisioned kubernetes clusters utilizing CI/CD.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Wireframing, Photoshop, Figma, Adobe XD, User Research.\nKey Achievements:\n- Prototyped user journeys utilizing Photoshop.\n- Sketched design systems utilizing Figma.\n- Designed wireframes utilizing Photoshop.\n- Researched design systems utilizing Adobe XD.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Confluence, Agile, Stakeholder Management, Data Analysis.\nKey Achievements:\n- Led product roadmaps utilizing Data Analysis.\n- Analyzed sprint cycles utilizing Stakeholder Management.\n- Strategized market research utilizing Confluence.\n- Led market research utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: AWS, Kubernetes, Jenkins, Docker, GitHub Actions, Linux, CI/CD.\nKey Achievements:\n- Scaled containerized applications utilizing GitHub Actions.\n- Orchestrated deployment pipelines utilizing CI/CD.\n- Automated monitoring alerts utilizing Docker.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Computer Vision, TensorFlow, Python, NumPy.\nKey Achievements:\n- Analyzed large datasets utilizing Python.\n- Modeled regression algorithms utilizing TensorFlow.\n- Evaluated regression algorithms utilizing Computer Vision.\n- Predicted A/B tests utilizing NumPy.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Scrum, Confluence, A/B Testing, Go-to-market Strategy, Roadmapping, Jira, Stakeholder Management.\nKey Achievements:\n- Managed product roadmaps utilizing Go-to-market Strategy.\n- Strategized market research utilizing Stakeholder Management.\n- Led market research utilizing Roadmapping.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Illustrator, Usability Testing, InVision, Sketch, Photoshop, Interaction Design, Wireframing.\nKey Achievements:\n- Prototyped wireframes utilizing InVision.\n- Sketched wireframes utilizing Usability Testing.\n- Sketched interactive prototypes utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Deep Learning, Data Visualization, TensorFlow, NumPy, SQL, Matplotlib, Pandas.\nKey Achievements:\n- Modeled predictive models utilizing Data Visualization.\n- Cleaned regression algorithms utilizing Deep Learning.\n- Trained A/B tests utilizing Matplotlib.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, InVision, Adobe XD, User Research, Illustrator.\nKey Achievements:\n- Sketched design systems utilizing Adobe XD.\n- Sketched user journeys utilizing Usability Testing.\n- Created design systems utilizing Usability Testing.\n- Sketched interactive prototypes utilizing Illustrator.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, REST APIs, FastAPI, MongoDB.\nKey Achievements:\n- Deployed server-side logic utilizing MongoDB.\n- Maintained microservices architectures utilizing FastAPI.\n- Secured RESTful APIs utilizing Express.\n- Secured distributed systems utilizing MongoDB.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Grafana, Terraform, Ansible, Azure, GCP, Linux.\nKey Achievements:\n- Scaled containerized applications utilizing Grafana.\n- Scaled monitoring alerts utilizing Linux.\n- Orchestrated kubernetes clusters utilizing Terraform.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Data Visualization, Pandas, Python, Matplotlib.\nKey Achievements:\n- Cleaned regression algorithms utilizing Python.\n- Predicted neural networks utilizing Matplotlib.\n- Analyzed neural networks utilizing Matplotlib.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Machine Learning, TensorFlow, NumPy, Matplotlib, Computer Vision, SQL, Python, Scikit-Learn.\nKey Achievements:\n- Cleaned regression algorithms utilizing Computer Vision.\n- Evaluated data pipelines utilizing Machine Learning.\n- Analyzed neural networks utilizing Matplotlib.\n- Trained regression algorithms utilizing TensorFlow.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Matplotlib, Seaborn, NLP, PyTorch, SQL, Pandas.\nKey Achievements:\n- Cleaned data pipelines utilizing Pandas.\n- Trained regression algorithms utilizing NLP.\n- Evaluated regression algorithms utilizing NLP.\n- Predicted A/B tests utilizing Seaborn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: NumPy, Scikit-Learn, NLP, Pandas, Machine Learning, SQL, Data Visualization, PyTorch.\nKey Achievements:\n- Modeled regression algorithms utilizing NumPy.\n- Analyzed predictive models utilizing NumPy.\n- Cleaned data pipelines utilizing PyTorch.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Docker, MongoDB, Django, Redis, REST APIs, FastAPI, Node.js.\nKey Achievements:\n- Secured RESTful APIs utilizing REST APIs.\n- Built server-side logic utilizing Docker.\n- Deployed microservices architectures utilizing Django.\n- Secured distributed systems utilizing Node.js.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Linux, CI/CD, GCP, Docker, GitHub Actions, AWS.\nKey Achievements:\n- Orchestrated deployment pipelines utilizing Linux.\n- Deployed infrastructure as code utilizing Linux.\n- Provisioned containerized applications utilizing GCP.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Machine Learning, Computer Vision, Python, Scikit-Learn, Data Visualization.\nKey Achievements:\n- Trained predictive models utilizing Python.\n- Predicted A/B tests utilizing Machine Learning.\n- Cleaned A/B tests utilizing Machine Learning.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Data Analysis, Confluence, A/B Testing, User Interviews.\nKey Achievements:\n- Prioritized feature launches utilizing Data Analysis.\n- Coordinated user requirements utilizing Confluence.\n- Strategized sprint cycles utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: User Interviews, Agile, Roadmapping, Stakeholder Management.\nKey Achievements:\n- Prioritized market research utilizing Roadmapping.\n- Managed feature launches utilizing Stakeholder Management.\n- Led user requirements utilizing User Interviews.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Bash, GCP, Azure, AWS, CI/CD.\nKey Achievements:\n- Deployed kubernetes clusters utilizing Bash.\n- Monitored kubernetes clusters utilizing Bash.\n- Secured cloud infrastructure utilizing GCP.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: NLP, Machine Learning, Deep Learning, PyTorch.\nKey Achievements:\n- Predicted A/B tests utilizing PyTorch.\n- Cleaned data pipelines utilizing Machine Learning.\n- Trained large datasets utilizing Deep Learning.\n- Evaluated statistical models utilizing Machine Learning.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, FastAPI, PostgreSQL, GraphQL, Docker, Node.js, Django.\nKey Achievements:\n- Optimized microservices architectures utilizing Django.\n- Scaled database schemas utilizing GraphQL.\n- Deployed server-side logic utilizing GraphQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Matplotlib, NumPy, Computer Vision, Data Visualization, SQL.\nKey Achievements:\n- Cleaned large datasets utilizing Computer Vision.\n- Analyzed neural networks utilizing Data Visualization.\n- Predicted data pipelines utilizing SQL.\n- Visualized large datasets utilizing NumPy.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GitHub Actions, Linux, Prometheus, Azure, Grafana.\nKey Achievements:\n- Automated infrastructure as code utilizing Linux.\n- Orchestrated cloud infrastructure utilizing Linux.\n- Scaled monitoring alerts utilizing Azure.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Stakeholder Management, Confluence, Go-to-market Strategy, User Interviews, A/B Testing.\nKey Achievements:\n- Analyzed cross-functional teams utilizing Stakeholder Management.\n- Prioritized feature launches utilizing Stakeholder Management.\n- Analyzed user requirements utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Terraform, Ansible, Jenkins, Docker, GCP.\nKey Achievements:\n- Secured deployment pipelines utilizing Ansible.\n- Scaled containerized applications utilizing Docker.\n- Monitored monitoring alerts utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: CI/CD, Prometheus, Terraform, Bash, GCP, Kubernetes, GitHub Actions, Ansible.\nKey Achievements:\n- Automated monitoring alerts utilizing CI/CD.\n- Automated monitoring alerts utilizing Bash.\n- Orchestrated containerized applications utilizing GitHub Actions.\n- Provisioned deployment pipelines utilizing CI/CD.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: MongoDB, Redis, GraphQL, Express.\nKey Achievements:\n- Secured database schemas utilizing Express.\n- Maintained microservices architectures utilizing MongoDB.\n- Deployed server-side logic utilizing Express.\n- Maintained authentication systems utilizing Express.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Grafana, Azure, Prometheus, Docker, Linux.\nKey Achievements:\n- Scaled monitoring alerts utilizing Docker.\n- Provisioned cloud infrastructure utilizing Grafana.\n- Automated containerized applications utilizing Grafana.\n- Provisioned kubernetes clusters utilizing Grafana.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, Vue.js, Tailwind CSS, Next.js, Redux, Webpack, React, JavaScript.\nKey Achievements:\n- Built user interfaces utilizing Vue.js.\n- Developed responsive layouts utilizing JavaScript.\n- Designed web applications utilizing HTML5.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Pandas, SQL, NLP, NumPy.\nKey Achievements:\n- Trained regression algorithms utilizing NLP.\n- Trained regression algorithms utilizing NLP.\n- Predicted A/B tests utilizing Pandas.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Next.js, Vue.js, Redux, HTML5.\nKey Achievements:\n- Developed frontend architectures utilizing Next.js.\n- Implemented web applications utilizing Redux.\n- Maintained user interfaces utilizing Next.js.\n- Maintained responsive layouts utilizing HTML5.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Deep Learning, NumPy, Machine Learning, PyTorch, Scikit-Learn, SQL, Python, Pandas.\nKey Achievements:\n- Trained data pipelines utilizing Machine Learning.\n- Cleaned large datasets utilizing Pandas.\n- Evaluated neural networks utilizing SQL.\n- Analyzed neural networks utilizing Scikit-Learn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Framer Motion, HTML5, React, Angular, Redux, Webpack, Next.js, TypeScript.\nKey Achievements:\n- Architected responsive layouts utilizing React.\n- Developed responsive layouts utilizing Redux.\n- Implemented single-page applications utilizing React.\n- Built UI components utilizing Next.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Tailwind CSS, JavaScript, React, Angular, CSS3, HTML5, Framer Motion, Next.js.\nKey Achievements:\n- Built frontend architectures utilizing CSS3.\n- Implemented frontend architectures utilizing Angular.\n- Developed single-page applications utilizing Framer Motion.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Scikit-Learn, NumPy, Computer Vision, Matplotlib, Python.\nKey Achievements:\n- Modeled neural networks utilizing Matplotlib.\n- Analyzed A/B tests utilizing NumPy.\n- Visualized predictive models utilizing Python.\n- Visualized regression algorithms utilizing NumPy.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Python, Pandas, Computer Vision, Deep Learning, NLP, TensorFlow.\nKey Achievements:\n- Predicted predictive models utilizing Deep Learning.\n- Analyzed statistical models utilizing Pandas.\n- Analyzed large datasets utilizing TensorFlow.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, Spring Boot, PostgreSQL, Python.\nKey Achievements:\n- Deployed authentication systems utilizing Express.\n- Secured server-side logic utilizing Python.\n- Deployed RESTful APIs utilizing Express.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, GraphQL, PostgreSQL, Docker, Microservices.\nKey Achievements:\n- Scaled microservices architectures utilizing Python.\n- Deployed distributed systems utilizing PostgreSQL.\n- Scaled RESTful APIs utilizing Docker.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Tailwind CSS, HTML5, JavaScript, Vue.js, Next.js, Webpack, Redux.\nKey Achievements:\n- Architected web applications utilizing Redux.\n- Developed frontend architectures utilizing Vue.js.\n- Built single-page applications utilizing JavaScript.\n- Designed frontend architectures utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, Photoshop, Wireframing, Interaction Design, Sketch.\nKey Achievements:\n- Conducted user interfaces utilizing Sketch.\n- Designed design systems utilizing Photoshop.\n- Sketched interactive prototypes utilizing Interaction Design.\n- Iterated interactive prototypes utilizing Usability Testing.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Terraform, Ansible, CI/CD, Kubernetes, Azure, Jenkins, GitHub Actions.\nKey Achievements:\n- Scaled cloud infrastructure utilizing Jenkins.\n- Orchestrated cloud infrastructure utilizing Terraform.\n- Orchestrated deployment pipelines utilizing Jenkins.\n- Secured containerized applications utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Redis, Express, Node.js, Python.\nKey Achievements:\n- Secured authentication systems utilizing Python.\n- Deployed server-side logic utilizing Python.\n- Engineered microservices architectures utilizing Redis.\n- Maintained RESTful APIs utilizing Python.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Microservices, GraphQL, Docker, Python, REST APIs, Node.js.\nKey Achievements:\n- Optimized RESTful APIs utilizing Node.js.\n- Engineered RESTful APIs utilizing Python.\n- Deployed RESTful APIs utilizing Node.js.\n- Optimized microservices architectures utilizing Docker.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, Redux, Angular, JavaScript, CSS3, Webpack.\nKey Achievements:\n- Architected single-page applications utilizing JavaScript.\n- Optimized UI components utilizing Angular.\n- Optimized UI components utilizing JavaScript.\n- Optimized user interfaces utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: TensorFlow, PyTorch, NumPy, NLP, SQL, Seaborn, Deep Learning.\nKey Achievements:\n- Trained A/B tests utilizing NLP.\n- Trained regression algorithms utilizing SQL.\n- Evaluated predictive models utilizing Seaborn.\n- Modeled large datasets utilizing Deep Learning.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: User Interviews, A/B Testing, Jira, Stakeholder Management, Agile.\nKey Achievements:\n- Analyzed feature launches utilizing User Interviews.\n- Analyzed cross-functional teams utilizing A/B Testing.\n- Coordinated product roadmaps utilizing Jira.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Angular, React, Tailwind CSS, Next.js.\nKey Achievements:\n- Architected user interfaces utilizing Tailwind CSS.\n- Optimized user interfaces utilizing Angular.\n- Architected web applications utilizing Tailwind CSS.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: SQL, Python, Pandas, TensorFlow.\nKey Achievements:\n- Cleaned neural networks utilizing TensorFlow.\n- Analyzed regression algorithms utilizing Pandas.\n- Modeled neural networks utilizing TensorFlow.\n- Predicted data pipelines utilizing TensorFlow.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Python, Machine Learning, Matplotlib, Deep Learning, Computer Vision, Scikit-Learn, TensorFlow.\nKey Achievements:\n- Trained statistical models utilizing Computer Vision.\n- Evaluated A/B tests utilizing Matplotlib.\n- Cleaned neural networks utilizing Python.\n- Cleaned large datasets utilizing Scikit-Learn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Sketch, Wireframing, User Research, Photoshop, Interaction Design.\nKey Achievements:\n- Prototyped high-fidelity mockups utilizing Sketch.\n- Conducted usability studies utilizing Interaction Design.\n- Researched design systems utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: TypeScript, Framer Motion, JavaScript, React.\nKey Achievements:\n- Developed user interfaces utilizing Framer Motion.\n- Built single-page applications utilizing JavaScript.\n- Developed single-page applications utilizing Framer Motion.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, Sketch, Adobe XD, User Research, Figma.\nKey Achievements:\n- Conducted user interfaces utilizing Figma.\n- Researched interactive prototypes utilizing Figma.\n- Sketched high-fidelity mockups utilizing User Research.\n- Conducted interactive prototypes utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: PostgreSQL, Django, Java, Node.js, MongoDB, GraphQL, Redis, FastAPI.\nKey Achievements:\n- Engineered authentication systems utilizing Redis.\n- Deployed server-side logic utilizing PostgreSQL.\n- Secured authentication systems utilizing Java.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Go-to-market Strategy, Scrum, Stakeholder Management, Confluence, A/B Testing, User Interviews, Data Analysis.\nKey Achievements:\n- Strategized product roadmaps utilizing Go-to-market Strategy.\n- Prioritized feature launches utilizing Stakeholder Management.\n- Launched product roadmaps utilizing Data Analysis.\n- Strategized cross-functional teams utilizing Data Analysis.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: PyTorch, Pandas, TensorFlow, Scikit-Learn, Computer Vision.\nKey Achievements:\n- Analyzed regression algorithms utilizing Scikit-Learn.\n- Predicted large datasets utilizing TensorFlow.\n- Visualized predictive models utilizing Computer Vision.\n- Modeled statistical models utilizing PyTorch.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, Django, PostgreSQL, Redis, Docker, MongoDB, Spring Boot, Python.\nKey Achievements:\n- Deployed database schemas utilizing PostgreSQL.\n- Maintained server-side logic utilizing Spring Boot.\n- Secured distributed systems utilizing Express.\n- Optimized authentication systems utilizing Spring Boot.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GitHub Actions, AWS, GCP, Linux, Terraform, Prometheus, Ansible.\nKey Achievements:\n- Deployed cloud infrastructure utilizing Prometheus.\n- Monitored containerized applications utilizing Terraform.\n- Provisioned cloud infrastructure utilizing Prometheus.\n- Orchestrated cloud infrastructure utilizing Ansible.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Confluence, Data Analysis, User Interviews, A/B Testing, Go-to-market Strategy, Jira, Stakeholder Management.\nKey Achievements:\n- Analyzed sprint cycles utilizing Go-to-market Strategy.\n- Coordinated sprint cycles utilizing Jira.\n- Managed user requirements utilizing A/B Testing.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Figma, Sketch, Interaction Design, Photoshop.\nKey Achievements:\n- Created interactive prototypes utilizing Photoshop.\n- Sketched user journeys utilizing Sketch.\n- Sketched user journeys utilizing Sketch.\n- Designed design systems utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: A/B Testing, Confluence, Stakeholder Management, Roadmapping, User Interviews, Data Analysis, Agile.\nKey Achievements:\n- Strategized user requirements utilizing Roadmapping.\n- Analyzed market research utilizing A/B Testing.\n- Launched cross-functional teams utilizing A/B Testing.\n- Strategized feature launches utilizing Stakeholder Management.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Tailwind CSS, CSS3, React, Vue.js.\nKey Achievements:\n- Maintained single-page applications utilizing React.\n- Built UI components utilizing CSS3.\n- Built user interfaces utilizing CSS3.\n- Implemented single-page applications utilizing Vue.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Figma, Wireframing, Usability Testing, Prototyping, User Research.\nKey Achievements:\n- Created wireframes utilizing Usability Testing.\n- Created wireframes utilizing Figma.\n- Prototyped high-fidelity mockups utilizing Wireframing.\n- Conducted design systems utilizing Prototyping.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: PostgreSQL, Node.js, Django, Java.\nKey Achievements:\n- Maintained database schemas utilizing Node.js.\n- Optimized RESTful APIs utilizing PostgreSQL.\n- Engineered database schemas utilizing Django.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: GraphQL, Docker, Python, PostgreSQL, Redis, Node.js.\nKey Achievements:\n- Engineered RESTful APIs utilizing Python.\n- Deployed server-side logic utilizing GraphQL.\n- Optimized microservices architectures utilizing Node.js.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Data Visualization, NLP, Python, Seaborn, Pandas, PyTorch, Deep Learning.\nKey Achievements:\n- Modeled predictive models utilizing PyTorch.\n- Predicted large datasets utilizing Python.\n- Evaluated predictive models utilizing Pandas.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GitHub Actions, Prometheus, Azure, Ansible, Docker, GCP, Jenkins.\nKey Achievements:\n- Deployed deployment pipelines utilizing Ansible.\n- Scaled containerized applications utilizing Ansible.\n- Orchestrated monitoring alerts utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Sketch, Usability Testing, InVision, Wireframing.\nKey Achievements:\n- Created interactive prototypes utilizing InVision.\n- Sketched user journeys utilizing InVision.\n- Conducted wireframes utilizing InVision.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: FastAPI, REST APIs, MongoDB, GraphQL.\nKey Achievements:\n- Optimized server-side logic utilizing MongoDB.\n- Engineered distributed systems utilizing FastAPI.\n- Secured authentication systems utilizing MongoDB.\n- Engineered authentication systems utilizing FastAPI.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, Redis, GraphQL, Docker, Java.\nKey Achievements:\n- Secured authentication systems utilizing Python.\n- Secured microservices architectures utilizing Python.\n- Maintained microservices architectures utilizing GraphQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GitHub Actions, Ansible, Prometheus, GCP, Kubernetes, Linux, Grafana, Bash.\nKey Achievements:\n- Orchestrated containerized applications utilizing Prometheus.\n- Monitored containerized applications utilizing GCP.\n- Automated kubernetes clusters utilizing Linux.\n- Automated kubernetes clusters utilizing Ansible.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, Redis, Node.js, PostgreSQL, REST APIs, Python.\nKey Achievements:\n- Maintained server-side logic utilizing PostgreSQL.\n- Built distributed systems utilizing REST APIs.\n- Scaled microservices architectures utilizing Python.\n- Optimized authentication systems utilizing PostgreSQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: React, Vue.js, Next.js, Webpack, JavaScript.\nKey Achievements:\n- Architected web applications utilizing JavaScript.\n- Designed user interfaces utilizing Next.js.\n- Implemented frontend architectures utilizing Next.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Stakeholder Management, Data Analysis, A/B Testing, Jira, Roadmapping.\nKey Achievements:\n- Launched product roadmaps utilizing Stakeholder Management.\n- Strategized user requirements utilizing Roadmapping.\n- Managed market research utilizing Data Analysis.\n- Led sprint cycles utilizing Stakeholder Management.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Pandas, Matplotlib, Computer Vision, TensorFlow.\nKey Achievements:\n- Evaluated large datasets utilizing Computer Vision.\n- Cleaned regression algorithms utilizing Computer Vision.\n- Analyzed predictive models utilizing Pandas.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Sketch, Interaction Design, User Research, Figma, Illustrator, Wireframing, Photoshop.\nKey Achievements:\n- Sketched usability studies utilizing Figma.\n- Prototyped user journeys utilizing Interaction Design.\n- Prototyped wireframes utilizing Photoshop.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Pandas, NLP, Python, Computer Vision.\nKey Achievements:\n- Analyzed statistical models utilizing NLP.\n- Trained predictive models utilizing Pandas.\n- Analyzed statistical models utilizing NLP.\n- Cleaned data pipelines utilizing NLP.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Next.js, JavaScript, CSS3, Tailwind CSS, Framer Motion, Angular.\nKey Achievements:\n- Developed responsive layouts utilizing Framer Motion.\n- Maintained frontend architectures utilizing Angular.\n- Optimized UI components utilizing Next.js.\n- Built frontend architectures utilizing Framer Motion.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Adobe XD, Prototyping, Sketch, Wireframing, Interaction Design, Usability Testing, InVision, Figma.\nKey Achievements:\n- Iterated usability studies utilizing InVision.\n- Created usability studies utilizing Wireframing.\n- Designed interactive prototypes utilizing InVision.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Deep Learning, NLP, TensorFlow, PyTorch, Seaborn.\nKey Achievements:\n- Modeled data pipelines utilizing Seaborn.\n- Cleaned data pipelines utilizing Deep Learning.\n- Evaluated A/B tests utilizing PyTorch.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Django, Docker, Microservices, Express, MongoDB, Python.\nKey Achievements:\n- Built distributed systems utilizing MongoDB.\n- Secured microservices architectures utilizing Django.\n- Built distributed systems utilizing Microservices.\n- Built RESTful APIs utilizing Docker.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: User Research, Wireframing, Illustrator, Prototyping, Sketch.\nKey Achievements:\n- Conducted high-fidelity mockups utilizing Sketch.\n- Prototyped high-fidelity mockups utilizing Prototyping.\n- Conducted usability studies utilizing Prototyping.\n- Designed user interfaces utilizing User Research.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Jira, Go-to-market Strategy, Data Analysis, A/B Testing.\nKey Achievements:\n- Led sprint cycles utilizing Jira.\n- Managed sprint cycles utilizing Data Analysis.\n- Prioritized cross-functional teams utilizing Go-to-market Strategy.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Next.js, Webpack, React, TypeScript, Vue.js, HTML5, Tailwind CSS, Redux.\nKey Achievements:\n- Architected responsive layouts utilizing HTML5.\n- Developed UI components utilizing Tailwind CSS.\n- Built responsive layouts utilizing Redux.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: User Interviews, Go-to-market Strategy, Jira, Roadmapping, Stakeholder Management.\nKey Achievements:\n- Strategized product roadmaps utilizing Jira.\n- Coordinated market research utilizing Roadmapping.\n- Analyzed sprint cycles utilizing Stakeholder Management.\n- Strategized sprint cycles utilizing Jira.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: REST APIs, Python, Spring Boot, Django.\nKey Achievements:\n- Maintained RESTful APIs utilizing Spring Boot.\n- Engineered RESTful APIs utilizing Django.\n- Engineered authentication systems utilizing Spring Boot.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: PyTorch, Scikit-Learn, TensorFlow, Computer Vision, Data Visualization, Deep Learning, NumPy, NLP.\nKey Achievements:\n- Predicted large datasets utilizing NumPy.\n- Trained regression algorithms utilizing Data Visualization.\n- Analyzed neural networks utilizing Deep Learning.\n- Analyzed neural networks utilizing Data Visualization.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Matplotlib, NumPy, Python, SQL, Pandas, PyTorch, Computer Vision.\nKey Achievements:\n- Predicted large datasets utilizing Pandas.\n- Visualized predictive models utilizing Pandas.\n- Cleaned statistical models utilizing PyTorch.\n- Predicted data pipelines utilizing Computer Vision.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Ansible, Jenkins, Azure, Bash.\nKey Achievements:\n- Secured containerized applications utilizing Ansible.\n- Provisioned containerized applications utilizing Bash.\n- Automated cloud infrastructure utilizing Jenkins.\n- Deployed containerized applications utilizing Bash.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Scikit-Learn, NLP, Python, Pandas, Deep Learning, Machine Learning, Seaborn.\nKey Achievements:\n- Trained data pipelines utilizing Machine Learning.\n- Predicted statistical models utilizing NLP.\n- Evaluated predictive models utilizing Pandas.\n- Visualized regression algorithms utilizing Seaborn.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Computer Vision, NumPy, Matplotlib, NLP, TensorFlow, Deep Learning.\nKey Achievements:\n- Trained data pipelines utilizing Computer Vision.\n- Visualized A/B tests utilizing NLP.\n- Modeled regression algorithms utilizing TensorFlow.\n- Modeled A/B tests utilizing NumPy.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Machine Learning, Deep Learning, NumPy, TensorFlow, Computer Vision, SQL, Pandas.\nKey Achievements:\n- Trained statistical models utilizing Deep Learning.\n- Visualized large datasets utilizing Machine Learning.\n- Trained A/B tests utilizing TensorFlow.\n- Visualized A/B tests utilizing NumPy.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GitHub Actions, GCP, Docker, Azure, Terraform, CI/CD, AWS, Jenkins.\nKey Achievements:\n- Automated infrastructure as code utilizing Azure.\n- Secured deployment pipelines utilizing GitHub Actions.\n- Automated cloud infrastructure utilizing Terraform.\n- Provisioned containerized applications utilizing Jenkins.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Data Analysis, Jira, A/B Testing, Stakeholder Management.\nKey Achievements:\n- Prioritized feature launches utilizing A/B Testing.\n- Led feature launches utilizing Stakeholder Management.\n- Managed feature launches utilizing Data Analysis.\n- Led user requirements utilizing Data Analysis.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Roadmapping, Data Analysis, Scrum, User Interviews, A/B Testing, Go-to-market Strategy.\nKey Achievements:\n- Led market research utilizing A/B Testing.\n- Managed sprint cycles utilizing Go-to-market Strategy.\n- Managed cross-functional teams utilizing Go-to-market Strategy.\n- Strategized user requirements utilizing A/B Testing.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Bash, Ansible, Prometheus, Grafana, Terraform, Docker.\nKey Achievements:\n- Automated monitoring alerts utilizing Prometheus.\n- Provisioned monitoring alerts utilizing Bash.\n- Provisioned cloud infrastructure utilizing Ansible.\n- Monitored containerized applications utilizing Grafana.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Grafana, Ansible, CI/CD, Prometheus, Kubernetes, Bash.\nKey Achievements:\n- Orchestrated kubernetes clusters utilizing Kubernetes.\n- Orchestrated monitoring alerts utilizing CI/CD.\n- Automated kubernetes clusters utilizing Grafana.\n- Secured cloud infrastructure utilizing Kubernetes.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Illustrator, InVision, Figma, Wireframing, Adobe XD.\nKey Achievements:\n- Prototyped wireframes utilizing Figma.\n- Designed interactive prototypes utilizing Wireframing.\n- Prototyped user interfaces utilizing Illustrator.\n- Created wireframes utilizing InVision.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Webpack, Framer Motion, Next.js, Vue.js, Angular, CSS3.\nKey Achievements:\n- Designed frontend architectures utilizing Vue.js.\n- Implemented single-page applications utilizing Webpack.\n- Built UI components utilizing Framer Motion.\n- Implemented web applications utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Webpack, Next.js, JavaScript, TypeScript.\nKey Achievements:\n- Designed user interfaces utilizing Webpack.\n- Maintained responsive layouts utilizing Next.js.\n- Maintained responsive layouts utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Go-to-market Strategy, User Interviews, Stakeholder Management, Confluence, A/B Testing.\nKey Achievements:\n- Analyzed user requirements utilizing Go-to-market Strategy.\n- Strategized cross-functional teams utilizing Confluence.\n- Launched sprint cycles utilizing Stakeholder Management.\n- Prioritized sprint cycles utilizing A/B Testing.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, Prototyping, Interaction Design, Figma, InVision, Wireframing.\nKey Achievements:\n- Iterated design systems utilizing Usability Testing.\n- Iterated wireframes utilizing Interaction Design.\n- Prototyped user interfaces utilizing Wireframing.\n- Sketched user interfaces utilizing Figma.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Agile, Confluence, A/B Testing, Stakeholder Management, Go-to-market Strategy.\nKey Achievements:\n- Managed user requirements utilizing Stakeholder Management.\n- Led feature launches utilizing Go-to-market Strategy.\n- Coordinated feature launches utilizing A/B Testing.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Confluence, Go-to-market Strategy, Agile, Jira, Scrum, User Interviews, Stakeholder Management.\nKey Achievements:\n- Launched cross-functional teams utilizing Stakeholder Management.\n- Led market research utilizing Go-to-market Strategy.\n- Launched cross-functional teams utilizing Agile.\n- Led product roadmaps utilizing Confluence.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: REST APIs, PostgreSQL, Docker, Redis, GraphQL, Java, Node.js, Django.\nKey Achievements:\n- Engineered authentication systems utilizing PostgreSQL.\n- Optimized RESTful APIs utilizing PostgreSQL.\n- Engineered database schemas utilizing GraphQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Confluence, Agile, A/B Testing, Scrum, Data Analysis, Jira, Go-to-market Strategy.\nKey Achievements:\n- Prioritized sprint cycles utilizing Agile.\n- Analyzed market research utilizing Jira.\n- Launched cross-functional teams utilizing Agile.\n- Managed cross-functional teams utilizing Scrum.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Python, MongoDB, Django, Microservices, Spring Boot, Node.js.\nKey Achievements:\n- Maintained distributed systems utilizing Python.\n- Optimized authentication systems utilizing Django.\n- Deployed authentication systems utilizing Python.\n- Built distributed systems utilizing Spring Boot.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: JavaScript, Angular, Framer Motion, TypeScript, Redux, Next.js, Tailwind CSS, Vue.js.\nKey Achievements:\n- Optimized user interfaces utilizing JavaScript.\n- Developed user interfaces utilizing Vue.js.\n- Developed UI components utilizing Angular.\n- Designed responsive layouts utilizing Redux.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Kubernetes, Jenkins, Terraform, Docker.\nKey Achievements:\n- Scaled cloud infrastructure utilizing Jenkins.\n- Secured containerized applications utilizing Jenkins.\n- Monitored kubernetes clusters utilizing Kubernetes.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, Prototyping, Interaction Design, Illustrator.\nKey Achievements:\n- Conducted user journeys utilizing Illustrator.\n- Sketched usability studies utilizing Usability Testing.\n- Iterated user interfaces utilizing Prototyping.\n- Prototyped high-fidelity mockups utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: InVision, Wireframing, Interaction Design, Prototyping.\nKey Achievements:\n- Sketched high-fidelity mockups utilizing Wireframing.\n- Iterated user interfaces utilizing Interaction Design.\n- Sketched user interfaces utilizing Wireframing.\n- Created wireframes utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Kubernetes, GitHub Actions, Jenkins, Linux, Ansible.\nKey Achievements:\n- Deployed infrastructure as code utilizing Kubernetes.\n- Orchestrated kubernetes clusters utilizing GitHub Actions.\n- Scaled infrastructure as code utilizing Ansible.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: GCP, Jenkins, Azure, Terraform, Grafana.\nKey Achievements:\n- Secured containerized applications utilizing Grafana.\n- Scaled containerized applications utilizing GCP.\n- Automated cloud infrastructure utilizing Grafana.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Photoshop, Illustrator, Wireframing, InVision, Interaction Design, Adobe XD, Usability Testing.\nKey Achievements:\n- Created user journeys utilizing Interaction Design.\n- Designed design systems utilizing Interaction Design.\n- Sketched high-fidelity mockups utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: JavaScript, Redux, CSS3, Vue.js.\nKey Achievements:\n- Implemented web applications utilizing CSS3.\n- Implemented responsive layouts utilizing Redux.\n- Implemented single-page applications utilizing JavaScript.\n- Optimized responsive layouts utilizing Redux.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in product manager roles.\nCore competencies include: Data Analysis, Stakeholder Management, Go-to-market Strategy, Scrum, A/B Testing, User Interviews.\nKey Achievements:\n- Launched product roadmaps utilizing User Interviews.\n- Led sprint cycles utilizing User Interviews.\n- Prioritized user requirements utilizing Stakeholder Management.\n- Prioritized cross-functional teams utilizing Data Analysis.",
+        "label": "Product Manager"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Usability Testing, Adobe XD, User Research, Photoshop, Figma, Sketch, Interaction Design.\nKey Achievements:\n- Prototyped interactive prototypes utilizing Adobe XD.\n- Researched user journeys utilizing Figma.\n- Created user journeys utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Webpack, Vue.js, React, TypeScript.\nKey Achievements:\n- Implemented web applications utilizing Webpack.\n- Optimized frontend architectures utilizing Vue.js.\n- Developed single-page applications utilizing Webpack.\n- Architected frontend architectures utilizing Webpack.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Spring Boot, REST APIs, Python, MongoDB, Node.js, Express.\nKey Achievements:\n- Scaled distributed systems utilizing Node.js.\n- Maintained server-side logic utilizing Python.\n- Deployed database schemas utilizing Spring Boot.\n- Maintained distributed systems utilizing Node.js.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Java, REST APIs, PostgreSQL, Redis, Spring Boot, MongoDB.\nKey Achievements:\n- Built microservices architectures utilizing REST APIs.\n- Maintained server-side logic utilizing Spring Boot.\n- Maintained server-side logic utilizing Java.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, Spring Boot, GraphQL, Python.\nKey Achievements:\n- Secured authentication systems utilizing Express.\n- Engineered server-side logic utilizing GraphQL.\n- Scaled server-side logic utilizing GraphQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: GraphQL, MongoDB, Docker, FastAPI.\nKey Achievements:\n- Deployed distributed systems utilizing Docker.\n- Engineered RESTful APIs utilizing MongoDB.\n- Optimized RESTful APIs utilizing MongoDB.\n- Engineered distributed systems utilizing GraphQL.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in data scientist roles.\nCore competencies include: Machine Learning, TensorFlow, Data Visualization, Matplotlib, Seaborn, NumPy.\nKey Achievements:\n- Evaluated data pipelines utilizing NumPy.\n- Visualized data pipelines utilizing Data Visualization.\n- Cleaned statistical models utilizing TensorFlow.",
+        "label": "Data Scientist"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: PostgreSQL, Redis, Docker, Microservices.\nKey Achievements:\n- Deployed microservices architectures utilizing Redis.\n- Optimized server-side logic utilizing PostgreSQL.\n- Scaled distributed systems utilizing Redis.\n- Optimized server-side logic utilizing Redis.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: AWS, Kubernetes, Azure, Bash, Prometheus, Linux.\nKey Achievements:\n- Scaled monitoring alerts utilizing Linux.\n- Secured monitoring alerts utilizing Kubernetes.\n- Scaled containerized applications utilizing AWS.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Next.js, Redux, CSS3, Framer Motion, HTML5, React, TypeScript.\nKey Achievements:\n- Optimized UI components utilizing Redux.\n- Implemented UI components utilizing Redux.\n- Built single-page applications utilizing React.\n- Implemented web applications utilizing TypeScript.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in devops engineer roles.\nCore competencies include: Prometheus, CI/CD, GCP, Jenkins, Terraform.\nKey Achievements:\n- Monitored infrastructure as code utilizing CI/CD.\n- Deployed monitoring alerts utilizing Jenkins.\n- Orchestrated infrastructure as code utilizing CI/CD.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "text": "Experienced professional with a background in backend developer roles.\nCore competencies include: Express, Django, Java, Spring Boot, Python.\nKey Achievements:\n- Deployed microservices architectures utilizing Spring Boot.\n- Optimized authentication systems utilizing Spring Boot.\n- Optimized database schemas utilizing Java.\n- Secured database schemas utilizing Python.",
+        "label": "Backend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: React, TypeScript, Angular, Tailwind CSS, Vue.js, Next.js, Framer Motion, HTML5.\nKey Achievements:\n- Built UI components utilizing Framer Motion.\n- Developed web applications utilizing Framer Motion.\n- Optimized user interfaces utilizing Tailwind CSS.\n- Maintained frontend architectures utilizing Tailwind CSS.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Webpack, JavaScript, React, Tailwind CSS, Vue.js, TypeScript, CSS3.\nKey Achievements:\n- Designed web applications utilizing TypeScript.\n- Optimized responsive layouts utilizing React.\n- Built frontend architectures utilizing Vue.js.\n- Architected UI components utilizing Vue.js.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: InVision, Illustrator, Prototyping, Sketch.\nKey Achievements:\n- Iterated high-fidelity mockups utilizing Illustrator.\n- Researched usability studies utilizing InVision.\n- Prototyped user interfaces utilizing Illustrator.\n- Researched usability studies utilizing Prototyping.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: Webpack, HTML5, Tailwind CSS, CSS3, React, Angular, JavaScript, TypeScript.\nKey Achievements:\n- Built frontend architectures utilizing React.\n- Implemented user interfaces utilizing Tailwind CSS.\n- Implemented single-page applications utilizing JavaScript.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Interaction Design, Adobe XD, Photoshop, Illustrator, User Research, InVision, Sketch.\nKey Achievements:\n- Sketched user interfaces utilizing User Research.\n- Prototyped usability studies utilizing InVision.\n- Conducted high-fidelity mockups utilizing Illustrator.\n- Sketched design systems utilizing Illustrator.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Photoshop, Usability Testing, Interaction Design, Prototyping.\nKey Achievements:\n- Iterated user journeys utilizing Photoshop.\n- Researched high-fidelity mockups utilizing Interaction Design.\n- Prototyped high-fidelity mockups utilizing Interaction Design.",
+        "label": "UI/UX Designer"
+    },
+    {
+        "text": "Experienced professional with a background in frontend developer roles.\nCore competencies include: HTML5, Next.js, CSS3, Framer Motion, Webpack.\nKey Achievements:\n- Implemented responsive layouts utilizing CSS3.\n- Implemented single-page applications utilizing Next.js.\n- Developed web applications utilizing HTML5.",
+        "label": "Frontend Developer"
+    },
+    {
+        "text": "Experienced professional with a background in ui/ux designer roles.\nCore competencies include: Illustrator, Interaction Design, Usability Testing, Prototyping, Photoshop, Figma.\nKey Achievements:\n- Designed user journeys utilizing Interaction Design.\n- Created interactive prototypes utilizing Figma.\n- Researched interactive prototypes utilizing Figma.",
+        "label": "UI/UX Designer"
+    }
+]

@@ -1,40 +1,50 @@
 import re
+import json
+import torch
+import torch.nn as nn
 from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 
-# 1. Initialize the SBERT Model
-# We use 'all-MiniLM-L6-v2' because it's fast, lightweight (~80MB), and heavily optimized 
-# for semantic similarity tasks, making it perfect for real-time web APIs.
+# 1. Define the Neural Network Architecture (must match train_mlp.py)
+class JobPredictorMLP(nn.Module):
+    def __init__(self, input_dim=384, hidden_dim=128, output_dim=6):
+        super(JobPredictorMLP, self).__init__()
+        self.network = nn.Sequential(
+            nn.Linear(input_dim, hidden_dim),
+            nn.BatchNorm1d(hidden_dim),
+            nn.ReLU(),
+            nn.Dropout(0.3),
+            nn.Linear(hidden_dim, 64),
+            nn.ReLU(),
+            nn.Dropout(0.2),
+            nn.Linear(64, output_dim)
+        )
+
+    def forward(self, x):
+        return self.network(x)
+
+# 2. Initialize Models and Load Weights
+sbert_model = None
+mlp_model = None
+idx_to_label = {}
+
 try:
-    print("Loading SBERT model... (this may take a moment on first run to download)")
-    model = SentenceTransformer('all-MiniLM-L6-v2')
-    print("SBERT model loaded successfully.")
+    print("Loading SBERT model...")
+    sbert_model = SentenceTransformer('all-MiniLM-L6-v2')
+    
+    print("Loading label mapping...")
+    with open('label_mapping.json', 'r') as f:
+        # JSON keys are always strings, we need to convert them back to integers
+        mapping = json.load(f)
+        idx_to_label = {int(k): v for k, v in mapping.items()}
+        
+    print("Loading PyTorch MLP model...")
+    mlp_model = JobPredictorMLP(input_dim=384, output_dim=len(idx_to_label))
+    mlp_model.load_state_dict(torch.load('mlp_model.pth', weights_only=True))
+    mlp_model.eval() # Set to evaluation mode (turns off dropout)
+    
+    print("AI Engine ready!")
 except Exception as e:
-    print(f"Error loading SBERT model: {e}")
-    model = None
-
-# 2. Define Target Job Profiles
-# These strings act as the "ideal candidate" semantic anchors.
-# We embed these once, and then compare the user's resume embedding to them.
-JOB_PROFILES = {
-    "AI/ML Engineer": "artificial intelligence machine learning deep learning neural networks python pytorch tensorflow computer vision nlp data science predictive modeling",
-    "Frontend Developer": "frontend web development user interface react nextjs javascript typescript html css tailwind responsive design ui ux",
-    "Backend Developer": "backend server api microservices python fastapi nodejs database sql postgresql nosql mongodb docker aws cloud infrastructure",
-    "Data Analyst": "data analysis visualization sql excel tableau powerbi python pandas statistics reporting business intelligence metrics",
-    "DevOps Engineer": "devops ci cd pipelines docker kubernetes aws azure gcp linux automation scripting infrastructure as code terraform ansible",
-    "Mobile Developer": "mobile app development ios android react native flutter swift kotlin mobile ui performance optimization"
-}
-
-# Cache the embeddings for the job profiles so we don't compute them on every request
-if model:
-    job_roles = list(JOB_PROFILES.keys())
-    job_texts = list(JOB_PROFILES.values())
-    print("Pre-computing job profile embeddings...")
-    job_embeddings = model.encode(job_texts)
-else:
-    job_roles = []
-    job_embeddings = None
+    print(f"Error loading models: {e}")
 
 def extract_core_text(text: str) -> str:
     """
@@ -43,7 +53,6 @@ def extract_core_text(text: str) -> str:
     """
     text = text.lower()
     
-    # Simple list of high-frequency filler words to remove
     stop_words = {
         'the', 'and', 'a', 'to', 'of', 'in', 'i', 'is', 'that', 'it', 'on', 'you', 
         'this', 'for', 'but', 'with', 'are', 'have', 'be', 'at', 'or', 'as', 'was', 
@@ -51,41 +60,37 @@ def extract_core_text(text: str) -> str:
         'team', 'player', 'seeking', 'opportunity', 'responsible', 'worked'
     }
     
-    # Keep only alphanumeric words
     words = re.findall(r'\b[a-z0-9]+\b', text)
-    
-    # Filter out stop words
     filtered_words = [w for w in words if w not in stop_words]
-    
-    # Join back into a dense string. 
-    # A 1000 word resume might become 300 words of pure signal, easily fitting the 512 token limit.
     return " ".join(filtered_words)
 
 def predict_roles(resume_text: str):
     """
-    Compares the condensed resume text against target job profiles using Cosine Similarity.
+    Predicts the top job roles using the custom-trained PyTorch MLP.
     """
-    if not model or job_embeddings is None:
+    if not sbert_model or not mlp_model:
         return []
 
-    # 1. Distill the text to avoid token truncation
+    # 1. Distill the text
     core_text = extract_core_text(resume_text)
     
-    # 2. Convert the resume text into a 384-dimensional vector
-    resume_embedding = model.encode([core_text])
+    # 2. Convert to SBERT vector (1x384 tensor)
+    resume_embedding = sbert_model.encode([core_text], convert_to_tensor=True)
     
-    # 3. Calculate Cosine Similarity between the resume and all job profiles
-    # Cosine similarity measures the angle between vectors (1.0 = identical direction)
-    similarities = cosine_similarity(resume_embedding, job_embeddings)[0]
+    # 3. Neural Network Forward Pass
+    with torch.no_grad(): # Disable gradient calculation for faster inference
+        logits = mlp_model(resume_embedding)
+        
+        # Apply Softmax to convert raw logits into probability percentages (0 to 1)
+        probabilities = torch.softmax(logits, dim=1)[0]
     
-    # 4. Format and sort the results
+    # 4. Format results
     results = []
-    for role, score in zip(job_roles, similarities):
-        # Convert score (-1 to 1) to a percentage (0 to 100)
-        # Note: SBERT embeddings are usually positive, but we clip to 0 just in case
-        match_percentage = round(max(0, float(score)) * 100, 1)
+    for idx, prob in enumerate(probabilities):
+        role_name = idx_to_label[idx]
+        match_percentage = round(prob.item() * 100, 1)
         results.append({
-            "role": role,
+            "role": role_name,
             "match_score": match_percentage
         })
     
