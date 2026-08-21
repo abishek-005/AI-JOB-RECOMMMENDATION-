@@ -7,10 +7,10 @@ import re
 
 app = FastAPI(title="Candidate-Centric Job Rec API", version="1.0")
 
-# Setup CORS to allow requests from the Next.js frontend
+# Setup CORS to allow requests from the Next.js frontend (Local and Vercel)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=["*"], # Allows all origins, necessary for Vercel deployment if domain isn't known
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
